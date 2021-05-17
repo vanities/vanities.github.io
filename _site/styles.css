@@ -1,0 +1,133 @@
+header {
+  color: #b1e600;
+  margin-bottom: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Optima;
+}
+
+h2 {
+  font-size: 1vw;
+  line-height: 1.35;
+  color: #cdcdc1;
+  margin: 10px 0 0 0;
+  text-transform: uppercase;
+}
+
+body {
+  margin: 30;
+  font-size: 16vw;
+  background: #00000c;
+}
+
+.mp {
+  max-width: 100%;
+  padding-top: 0%;
+  padding-right: 5%;
+  padding-bottom: 0.5%;
+  padding-left: 5%;
+  text-align: justify;
+  color: #fffff0;
+  font-family: 'Inconsolata', monospace;
+  font-size: 0.9vw;
+  line-height: 1.35;
+  border: 7px double  #fffff0;
+}
+
+.section{
+  border: 7px inset  #fffff0;
+}
+
+.logo{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  max-width: 60%;
+  max-height: 60%;
+}
+.self{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 1%;
+  padding-left: 1%;
+  text-align: center;
+  max-width: 30%;
+  max-height: 30%;
+  border: thin solid white
+}
+
+p,pre,ul,ol,dl,dd:after {
+  padding-top: 0%;
+  padding-right: 1%;
+  padding-bottom: 0.5%;
+  padding-left: 1%;
+}
+a,a:hover{
+  color: white;
+}
+a.resume:link{
+  text-align: center;
+  font-size: 16px;
+}
+
+.visited {
+  color: white;
+  text-decoration: line-through;
+}
+
+dl {
+  margin-top: 2;
+}
+p, dl {
+  margin-left: 0.5%;
+}
+dt, dd {
+  display: inline;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-left: 0;
+}
+dd:after{
+  display: block;
+  content: '';
+}
+
+dl.no-inner-margin dd:after{
+  margin-bottom: 0px;
+}
+
+
+footer{
+  text-align: center;
+  margin-top: 2%;
+}
+
+table{
+  width:100%;
+}
+table, th, td{
+  color: #fffff0;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 0.5%;
+  text-align: left;
+}
+th {
+  border: 3px solid #fffff0;
+}
+.books{
+  border: 0.5px solid  #fffff0;
+}
+table#t01 tr:nth-child( even ){
+  background-color:#777777;
+}
+table#t01 tr:nth-child( odd ){
+  background-color:gray;
+}
+table#t01 th{
+  background-color: #34314c;
+}
