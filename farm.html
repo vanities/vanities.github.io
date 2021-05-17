@@ -1,0 +1,64 @@
+<html>
+<head>
+{% block head %}
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- favicon  <link rel="shortcut icon" href="{{ url_for('static', filename='images/favicon2.ico') }}" type="image/x-icon">-->
+ 
+  <!-- jQuery first, then Popper, then Bootstrap JS. -->  
+  <!-- FULL jquery for $.post() -->
+  <script src="{{ url_for('static', filename='js/jquery-3.2.1.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/popper.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+  <!-- bootstrap v.4b css -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css') }}">
+
+{% block javascript %}
+
+<script type="text/javascript">
+  
+  function ran_int (min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+  
+</script>
+{% endblock %}
+
+{% block style %}
+<style>
+
+  
+
+
+.image img {
+    display:table-cell;
+    text-align:center;
+    width: 100%;
+    vertical-align:middle;
+    margin: 1px;
+
+}
+
+
+</style>
+{% endblock %}
+{% endblock %}
+
+</head>
+
+{% block content %}
+  <br>
+    {% for pic in pictures %}
+
+      <span class="image">
+        <a href="{{ url_for('static',filename='') }}{{ pic }}"><img src="{{ url_for('static',filename='') }}{{ pic }}"/></a>
+      </span>
+    {% endfor %}
+
+{% endblock %}
