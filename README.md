@@ -2,6 +2,7 @@ vanities github page
 =========================
 
 A simple, static portal.
+https://catwebm.com/
 
 
 Development
