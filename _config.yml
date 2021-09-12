@@ -4,21 +4,22 @@ description: >-
   My blog site
 baseurl: ""
 url: "https://catwebm.com"
+permalink: /:slug.html
 twitter_username: vanities
 github_username: vanities
 favicon: "favicon.png"
 markdown: kramdown
-remote-theme: riggraz/no-style-please
 sass:
   style: :compressed
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 include:
   - _pages
 # Exclude from processing.
@@ -35,3 +36,7 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#   - docker-compose.yml
+#   - Makefile
+#   - README.md
+#   - .DS_Store
