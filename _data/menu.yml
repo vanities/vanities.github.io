@@ -11,6 +11,11 @@ entries:
             url: https://www.linkedin.com/in/adam-mischke-45242096
           - title: twitter
             url: https://twitter.com/vanities
+      - title: about
+        entries:
+          - title: "<a href='/resume.html'>resume</a>"
+          - title: "<a href='/farm.html'>farm</a>"
+          - title: "<a href='/books.html'>books</a>"
 
   - title: thoughts
     post_list: true
