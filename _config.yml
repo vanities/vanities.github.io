@@ -1,1 +1,37 @@
-theme: jekyll-theme-minimal
+title: Adam Mischke
+email: mischke@protonmail.com
+description: >-
+  My blog site
+baseurl: ""
+url: "https://catwebm.com"
+twitter_username: vanities
+github_username: vanities
+favicon: "favicon.png"
+markdown: kramdown
+remote-theme: riggraz/no-style-please
+sass:
+  style: :compressed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+include:
+  - _pages
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

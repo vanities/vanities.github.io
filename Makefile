@@ -1,10 +1,9 @@
-.PHONY: local
+.PHONY: install up
 
 install:
-	gem install bundler
-	bundle install
+	docker-compose run jekyll bundle install
 
-local:
-	bundle exec jekyll serve
+up:
+	docker-compose up jekyll
 
-default: local
+default: up
