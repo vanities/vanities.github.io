@@ -40,6 +40,9 @@ The epidural in conjuction with the long delivery time brought my wife's tempera
 Strongly pushing, we almost had him out and we decided to use forceps to bring him out, after the first pull, he was out.
 > ...and an increased number of forceps deliveries. <sup>[[4]][epidural-2]</sup>
 
+Either because of the forceps and epidural or both, she had a 4th degree perineal tear
+>  Epidural analgesia is associated with an increase in the rate of severe perineal trauma because of the more frequent use of operative vaginal delivery and episiotomy. <sup>[[5]][tear]</sup>
+
 #### Day 4 & 5 - Rest & Antibiotics
 We ended up having to stay an extra 2 days after administering antibiotics to ensure my wife and baby's health. Luckily, and by God's will, everyone was safe at the end of the day. We were unprepared for the domino effects the treatments had, but are now more wiser going forward.
 
@@ -48,6 +51,7 @@ We ended up having to stay an extra 2 days after administering antibiotics to en
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595289/
 3. https://pubmed.ncbi.nlm.nih.gov/9875879/
 4. https://pubs.asahq.org/anesthesiology/article/100/1/142/548/Labor-Analgesia-and-Cesarean-DeliveryAn-Individual
+5. https://pubmed.ncbi.nlm.nih.gov/10432139/
 
 
 [cytotek]: https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/misoprostol-marketed-cytotec-information
@@ -55,3 +59,4 @@ We ended up having to stay an extra 2 days after administering antibiotics to en
 [pitocin]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595289/
 [epidural-1]: https://pubmed.ncbi.nlm.nih.gov/9875879/
 [epidural-2]: https://pubs.asahq.org/anesthesiology/article/100/1/142/548/Labor-Analgesia-and-Cesarean-DeliveryAn-Individual
+[tear]: https://pubmed.ncbi.nlm.nih.gov/10432139/
