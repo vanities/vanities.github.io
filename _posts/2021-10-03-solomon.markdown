@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Solly, the wise baby"
+date:   2021-10-02 22:23:39 -0500
+categories: jekyll update
+---
+
+This will be a mostly personally technical view on childbirth in a hospital and the side effects from a non-medical programmer. Becoming a parent is a rite of passage traveled only by the unselfish lunatics that desire to care for a helpless baby for years in search of a family. The road is long with sleepless nights, but worth it for a smile from the most innocent among us.
+
+
+## Induction
+
+40 weeks and 2 days was the day we decided to induce, as my wife was not dilated.
+
+### Day 1 - Cytotek
+We spent the first day in bed with her taking a tablet form of [Misoprostol named Cytotek][cytotek] taken orally in her cheek to soften my wife's cervix overnight.
+
+> This Patient Information Sheet is for pregnant women who may receive misoprostol to soften their cervix or induce contractions to begin labor. Misoprostol is sometimes used to decrease blood loss after delivery of a baby. These uses are not approved by the FDA. No company has sent the FDA scientific proof that misoprostol is safe and effective for these uses.
+> There can be serious side effects, including a torn uterus (womb), when misoprostol is used for labor and delivery. A torn uterus may result in severe bleeding, having the uterus removed (hysterectomy), and death of the mother or baby. These side effects are more likely in women who have had previous uterine surgery, a previous Cesarean delivery (C-section), or several previous births. <sup>[[1]][cytotek]</sup>
+
+### Day 2 - Pitocin
+After her cervix was soft, she had an IV drip of increasing dosages of Pitocin which is a type of [Oxytocin][oxytocin-wiki], which is a hormone released that stimulates uterine contractions to speed up the process of childbirth.
+
+> Pitocin causes contractions that both peak and become stronger more quickly than naturally occurring contractions. The result is a labor that is more difficult to manage. In addition, the uterine muscle never totally relaxes between contractions, increasing stress on both the uterus and the baby. Because of the increased potential risks for the uterus and the baby, continuous electronic fetal monitoring is indicated. The fetal monitor and intravenous line make movement more difficult. The hormonal orchestration of labor is disrupted. Pitocin does not cross the blood-brain barrier; therefore, endorphins are not released in response to the increasingly strong and painful uterine contractions. <sup>[[2]][pitocin]</sup>
+
+### Day 3 - Epidural, Acetaminophen, & Antibiotics
+Because of the Pitocin contractions, the pain was too much and my wife needed an epidural. This let her dilate throughout the night without the pain of the contractions. The nurses had to come by every hour during the night to move her from right to left side sleeping.
+
+>Laboring women do not experience the benefits of endorphins as they try to manage their contractions. Additionally, without the help of endorphins, they are likely to require an epidural. The epidural alters the course of labor, prolonging the length of both first- and second-stage labor and increasing the need for the use of instruments at birth. <sup>[[2]][pitocin]</sup>
+
+Interestingly, epidurals aren't correlated with C-sections
+>Epidural labor analgesia is not associated with increased rates of instrumented vaginal delivery for dystocia or cesarean delivery. Patients receiving epidural analgesia have longer labors. Patient satisfaction and neonatal outcome are better after epidural than parenteral opioid analgesia. <sup>[[3]][epidural-1]</sup>
+
+Epidurals can also create a doom vortex, where it requires more Pitocin. It can also increase the temperature of the mother, which can increase the chance for complications and infection.
+> We found that epidural analgesia was associated with prolonged labor, an increased need for oxytocin stimulation... <sup>[[4]][epidural-2]</sup>
+
+The epidural in conjuction with the long delivery time brought my wife's temperature over 100.4 F, to which the nurses began treating it with both and IV of acetaminophen and antibiotics, to reduce her fever and prevent infections.
+>  ...an increased incidence of maternal fever... <sup>[[4]][epidural-2]</sup>
+
+Strongly pushing, we almost had him out and we decided to use forceps to bring him out, after the first pull, he was out.
+> ...and an increased number of forceps deliveries. <sup>[[4]][epidural-2]</sup>
+
+#### Day 4 & 5 - Rest & Antibiotics
+We ended up having to stay an extra 2 days after administering antibiotics to ensure my wife and baby's health. Luckily, and by God's will, everyone was safe at the end of the day. We were unprepared for the domino effects the treatments had, but are now more wiser going forward.
+
+
+1. https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/misoprostol-marketed-cytotec-information
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595289/
+3. https://pubmed.ncbi.nlm.nih.gov/9875879/
+4. https://pubs.asahq.org/anesthesiology/article/100/1/142/548/Labor-Analgesia-and-Cesarean-DeliveryAn-Individual
+
+
+[cytotek]: https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/misoprostol-marketed-cytotec-information
+[oxytocin-wiki]: https://en.wikipedia.org/wiki/Oxytocin
+[pitocin]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595289/
+[epidural-1]: https://pubmed.ncbi.nlm.nih.gov/9875879/
+[epidural-2]: https://pubs.asahq.org/anesthesiology/article/100/1/142/548/Labor-Analgesia-and-Cesarean-DeliveryAn-Individual
