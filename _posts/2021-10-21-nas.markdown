@@ -1,0 +1,126 @@
+---
+layout: post
+title:  "Network Attached Storage"
+date:   2021-10-21 20:24:37 -0500
+categories: jekyll update
+---
+
+
+# NAS
+
+First Time NAS Splurge Guide.
+
+My Requirements: Custom OS, Custom ITX motherboard/CPU/RAM swappable, Hot-swappable bays.. Like-to-have: SFX PSU compatible.
+
+
+## Case
+
+### Custom
+
+https://www.u-nas.com/xcart/cart.php?target=product&product_id=17640 - $219.99
+Chassis Type	Mini-Tower
+Color	Black
+Motherboard Compatibility	Micro ATX, mini-ITX
+Power Supply Form Factor	1U Flex (power supply not included)
+Front Ports	1 x USB 3.0
+Side Ports	2 x USB 2.0; Audio (mic & headphone)
+Cooling System	2 x 120mm Gelid Ultra Quiet Fan (variable speed)
+Expansion
+Hot-Swap Drive Bays	8 x 3.5” SATA/SAS
+Internal Drive Bays	1 x 2.5” HDD/SSD
+Expansion Slots	2 x PCI / PCI Express
+Physical Specifications
+Dimensions(L x W x H)	315mm x 275mm x 197mm (feet not included)
+Net Weight	5.6KG
+
+### Semi-Pre-built
+https://www.amazon.com/Mini-ITX-4Bay-Enclosure-Drive-Opening/dp/B01HHFDBJC - needs cpu, ram, and a REVERSE SATA->SAS adapter cable. 4 bay. $149.00
+
+https://www.amazon.com/SilverStone-Technology-Mini-ITX-Computer-DS380B/dp/B00IAELTAI?qsid=136-4614760-1349401&sres=B093XV7PYR%2CB07W8KC3PY%2CB00IAELTAI%2CB00U8IS830%2CB0148P099E%2CB07PCH47Z2%2CB07MNC3JCB%2CB01LQZI9J6%2CB096FD8WVS%2CB009LHF4FO%2CB00K6OVG0I%2CB017NWO5V2%2CB015UDUAKG%2CB07FDFZDDW%2CB01LWTV8T6%2CB07HCG9RVV%2CB08SQF9HGH%2CB011WB7WXI%2CB08HFMS42D%2CB07T332MK4&srpt=COMPUTER_CHASSIS- 8 bay $225.03
+
+https://www.amazon.com/SilverStone-Technology-Micro-ATX-Mini-DTX-Mini-Itx/dp/B07W8KC3PY?qsid=136-4614760-1349401&sres=B093XV7PYR%2CB07W8KC3PY%2CB00IAELTAI%2CB00U8IS830%2CB0148P099E%2CB07PCH47Z2%2CB07MNC3JCB%2CB01LQZI9J6%2CB096FD8WVS%2CB009LHF4FO%2CB00K6OVG0I%2CB017NWO5V2%2CB015UDUAKG%2CB07FDFZDDW%2CB01LWTV8T6%2CB07HCG9RVV%2CB08SQF9HGH%2CB011WB7WXI%2CB08HFMS42D%2CB07T332MK4&srpt=COMPUTER_CHASSIS - 8 bay, $349.99 bad reviews because of air flow
+
+
+### Pre-built
+
+https://www.amazon.com/Synology-Bay-DiskStation-DS220-Diskless/dp/B087Z34F3R?qsid=136-4614760-1349401&sres=B087ZCBWFH%2CB01AWH05GE%2CB0855LMP81%2CB08LQVKXC4%2CB076CTLNJJ%2CB00JY4QJZ8%2CB097J7LCP4%2CB00TB8XMR0%2CB081QKVD83%2CB08LTPY5H3%2CB097J3GLZ6%2CB08FB5LBJP%2CB08SPXTPPR%2CB01BBXMEMQ%2CB01GLRX6C4%2CB089728G34%2CB08ZCMY13M%2CB08LQZGZKF%2CB07Y2BJWLT%2CB07MKLKQN5 - $547.99 4 bay
+
+https://www.u-nas.com/xcart/cart.php?target=product&product_id=17698&category_id=250 - $359.00 4bay
+Model	NS-402
+LAN Port	4 x 2.5 Gigabit
+CPU	Intel Celeron J4215
+Memory	4G (up to 32G)
+OS Disk	eMMC 16G
+Hot-Swap Tray	4 x Hot-Swappable Tray
+HDD	Support 4 x 2.5”/3.5” SATA/SAS
+USB	1 x USB 2.0 (Front); 2 x USB 3.0 (Back)
+Wake on Lan	Yes
+LED Indicators	Power , HDD
+HDMI	1 x HDMI
+Power Supply	DC 12V 7.5A
+Dimensions(L*W*H)	255mm x 190mm x 180mm
+Humidity	20%~80% R.H
+Temperature	Working:0℃~40℃
+	Storage :-40℃~65℃
+Fan	1 x 120mm Gelid Ultra Quiet Fan
+
+https://www.u-nas.com/xcart/cart.php?target=product&product_id=17697&category_id=250 - $499.99 8bay
+Model	NS-810P
+LAN Port	2 x Gigabit
+CPU	Intel Celeron 3215U
+Memory	2G
+OS Disk	16G
+Hot-Swap Tray	8 x Hot-Swappable Tray
+HDD	Support 8 x 2.5”/3.5” SATA/SAS
+USB	1 x USB 2.0 (Front); 2 x USB 2.0 (Side); 2 x USB 3.0 (Back)
+Wake on Lan	Yes
+LED Indicators	Power , HDD
+Power Supply	250W Flex Silent Power
+Power Consumption	<30W (Without Disk)
+Dimensions(L*W*H)	315mm x 275mm x 197mm
+Humidity	20%~80% R.H
+Temperature	Working:0℃~40℃
+	Storage :-40℃~65℃
+Fan	2 x 120mm Gelid Ultra Quiet Fan
+
+## Storage
+
+### SATA
+https://www.amazon.com/Seagate-IronWolf-5900RPM-Internal-3-5-Inch/dp/B07H289S79/136-4614760-1349401 - 8TB - $219.99 $28.75/1TB, 12TB - $299.99 $25/1TB, 16GB - $429.99 $26.875/1TB
+
+
+### SATA Shuck
+https://www.amazon.com/Book-Desktop-External-Drive-WDBBGB0080HBK-NESN/dp/B08KTSWHZB?linkId=58d0f880f0643319b2db349da57b4c02&language=en_US - 16TB - $369.99 $23.125/1TB
+
+https://www.amazon.com/Seagate-256MB-3-5-Inch-Enterprise-ST16000NM001G/dp/B07SPFPKF4?qsid=136-4614760-1349401&sres=B07SPFPKF4%2CB00B9U248Q%2CB009I2LK0K%2CB00512JC5G%2CB00OV8RGMM%2CB014UYHJWS%2CB00C9TEPHE%2CB01BT8YCGO%2CB009YQOL9C%2CB07BB3NPG1%2CB01BT8YXM2%2CB0082D57ZK%2CB07VQ8DJM8%2CB07PGKWSLC%2CB00NP6ATD4%2CB01BMJ1Y3O%2CB0025B0EUS%2CB00R7TD78O%2CB07WH3M18K%2CB073JJ2FVR&srpt=COMPUTER_DRIVE_OR_STORAGE 16TB - $319.99 $20/1TB
+
+
+## Power Supply
+
+I have SFX PSUs, but ended up going with the U-NAS, so I bought a 1U flex ATX.
+
+### 1U Flex supply
+
+https://www.geeekstore.com/shop/enhance-custom-flex-atx-modular-psu/ - $195.00
+
+SilverStone Technology 350 Watt Flex ATX Power Supply with Fixed Cables and 80 Plus Gold with 6Pin PCIe Connector SST-FX350-G-USA https://www.amazon.com/dp/B07QGMX5DW/ref=cm_sw_r_cp_api_glt_fabc_6GSMZSZGBSJ6WDYXK4TW - $85.26
+
+## Raid adapters
+
+https://www.amazon.com/SAS9211-8I-8PORT-Int-Sata-Pcie/dp/B002RL8I7M?qsid=136-4614760-1349401&sres=B002RL8I7M%2CB00DSURZYS%2CB012BPLYJC%2CB008NF6TKY%2CB008J49G9A%2CB07V6132NX%2CB0085FT2JC%2CB005XY1YX0%2CB00GTDT0VC%2CB01M2AC40Y%2CB07RNJG136%2CB00GTDT5I0%2CB0085FT292%2CB010CMW6S4%2CB002RL8IO0%2CB005O9TJRM%2CB002IT4YG2%2CB00I7MY3HO%2CB07ZVVVS9S%2CB00GTDTCTM - SAS9211-8I 8PORT Int 6GB Sata+SAS Pcie 2.0
+ - $78.99 pre-flashed IT mode
+
+https://www.ebay.com/itm/184389037439?epid=1386720237 - LSI SAS9201-8I 6Gbps
+$55.00
+
+
+## Cables
+
+https://www.amazon.com/CABLEDECONN-SFF-8087-SFF-8482-Connectors-Power/dp/B010CMW6S4?linkId=ae604da2bc0cfe8c3b3df669805191d3&language=en_US - SAS to 4 SATA/SAS
+
+https://www.amazon.com/CableCreation-SFF-8087-Female-Controller-Backplane/dp/B07CKX6HVV?linkId=c68b7c5b1eca58a30014f1779fdc1dd4&language=en_US
+- SAS to 4 SATA
+
+
+Refs:
+https://forums.serverbuilds.net/t/guide-nas-killer-4-0-fast-quiet-power-efficient-and-flexible-starting-at-125/667/9
