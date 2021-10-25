@@ -109,6 +109,12 @@ Fan|2 x 120mm Gelid Ultra Quiet Fan
 
 ## Storage
 
+### SAS
+[Seagate Enterprise Capacity 3.5 | ST8000NM0075 | 8TB 7200 RPM SAS 12Gb/s 256MB Cache][sas1] Used - $204.00 $25.5/1TB
+[Seagate ST12000NM002G 12TB 12Gb/s SAS HDD][sas2] New -  $316.70 $26.39/1TB
+[Seagate Exos X16 16TB Enterprise HDD – 7200 RPM, 256MB Cache, 12 Gb/s SAS][sas3] New - $378.00 $23.625/1TB
+[Seagate Exos X16 16TB Enterprise HDD – 7200 RPM, 256MB Cache, 12 Gb/s SAS][sas4] New - $364.00 $22.75/1TB
+
 ### SATA
 [Seagate Ironwolf][wolf] - 8TB - $219.99 $28.75/1TB, 12TB - $299.99 $25/1TB, 16GB - $429.99 $26.875/1TB
 
@@ -129,6 +135,7 @@ I have SFX PSUs, but ended up going with the U-NAS, so I bought a 1U flex ATX.
 [SilverStone Technology 350 Watt Flex ATX Power Supply with Fixed Cables and 80 Plus Gold with 6Pin PCIe Connector SST-FX350-G-USA][silverstonepsu]  - $85.26
 
 ## Raid adapters
+[LSI SAS 9300-8i 12Gbps][ra3] - ~$200.00 (fast enough for SSDs)
 
 [SAS9211-8I 8PORT Int 6GB Sata+SAS Pcie 2.0][ra] - $78.99 pre-flashed IT mode
 
@@ -137,14 +144,18 @@ I have SFX PSUs, but ended up going with the U-NAS, so I bought a 1U flex ATX.
 
 ## Cables
 
-https://www.amazon.com/CABLEDECONN-SFF-8087-SFF-8482-Connectors-Power/dp/B010CMW6S4?linkId=ae604da2bc0cfe8c3b3df669805191d3&language=en_US - SAS to 4 SATA/SAS
-
-https://www.amazon.com/CableCreation-SFF-8087-Female-Controller-Backplane/dp/B07CKX6HVV?linkId=c68b7c5b1eca58a30014f1779fdc1dd4&language=en_US
-- SAS to 4 SATA
+[SAS to 4 SATA/SAS][cable]
 
 
 Refs:
-https://forums.serverbuilds.net/t/guide-nas-killer-4-0-fast-quiet-power-efficient-and-flexible-starting-at-125/667/9
+
+[https://forums.serverbuilds.net/t/guide-nas-killer-4-0-fast-quiet-power-efficient-and-flexible-starting-at-125/667/9][naskiller]
+
+[https://www.servethehome.com/buyers-guides/top-hardware-components-freenas-nas-servers/top-picks-freenas-hbas/][radesc]
+
+[https://www.online-tech-tips.com/computer-tips/understanding-lan-network-transfer-speeds/][networkspeed]
+
+[https://forums.serverbuilds.net/t/official-u-nas-8-bay-mini-itx-nas-otis-8th-9th-gen-intel/7335][unassb]
 
 
 [unas810A]: https://www.u-nas.com/xcart/cart.php?target=product&product_id=17640
@@ -159,5 +170,15 @@ https://forums.serverbuilds.net/t/guide-nas-killer-4-0-fast-quiet-power-efficien
 [seagate]: https://www.amazon.com/Seagate-256MB-3-5-Inch-Enterprise-ST16000NM001G/dp/B07SPFPKF4?qsid=136-4614760-1349401&sres=B07SPFPKF4%2CB00B9U248Q%2CB009I2LK0K%2CB00512JC5G%2CB00OV8RGMM%2CB014UYHJWS%2CB00C9TEPHE%2CB01BT8YCGO%2CB009YQOL9C%2CB07BB3NPG1%2CB01BT8YXM2%2CB0082D57ZK%2CB07VQ8DJM8%2CB07PGKWSLC%2CB00NP6ATD4%2CB01BMJ1Y3O%2CB0025B0EUS%2CB00R7TD78O%2CB07WH3M18K%2CB073JJ2FVR&srpt=COMPUTER_DRIVE_OR_STORAGE
 [geeek]: https://www.geeekstore.com/shop/enhance-custom-flex-atx-modular-psu/
 [silverstonepsu]: https://www.amazon.com/dp/B07QGMX5DW/ref=cm_sw_r_cp_api_glt_fabc_6GSMZSZGBSJ6WDYXK4TW
+[radesc]: https://www.servethehome.com/buyers-guides/top-hardware-components-freenas-nas-servers/top-picks-freenas-hbas/
 [ra]: https://www.amazon.com/SAS9211-8I-8PORT-Int-Sata-Pcie/dp/B002RL8I7M?qsid=136-4614760-1349401&sres=B002RL8I7M%2CB00DSURZYS%2CB012BPLYJC%2CB008NF6TKY%2CB008J49G9A%2CB07V6132NX%2CB0085FT2JC%2CB005XY1YX0%2CB00GTDT0VC%2CB01M2AC40Y%2CB07RNJG136%2CB00GTDT5I0%2CB0085FT292%2CB010CMW6S4%2CB002RL8IO0%2CB005O9TJRM%2CB002IT4YG2%2CB00I7MY3HO%2CB07ZVVVS9S%2CB00GTDTCTM
 [ra2]: https://www.ebay.com/itm/184389037439?epid=1386720237
+[ra3]: https://www.amazon.com/LSI-Broadcom-9300-8i-PCI-Express-Profile/dp/B00DSURZYS?qsid=136-4614760-1349401&sres=B00DSURZYS%2CB0853DGPWP%2CB00H4ILG40%2CB00ZUC5GEI%2CB07VV91L61%2CB002RL8I7M%2CB00L2B8SEQ%2CB00I7MY3HO%2CB082HKNCVD%2CB00GTDTCTM%2CB00GX36OE4%2CB005XY1YX0%2CB07JZ6FYVC%2CB00DSUROKS%2CB07P6CDHS5%2CB00GTDTE2C%2CB01D9V14F6%2CB005O9TJRM%2CB01HCP7X0K%2CB08HHCNTGK
+[cable]: https://www.amazon.com/CABLEDECONN-SFF-8087-SFF-8482-Connectors-Power/dp/B010CMW6S4?linkId=ae604da2bc0cfe8c3b3df669805191d3&language=en_US
+[networkspeed]: https://www.online-tech-tips.com/computer-tips/understanding-lan-network-transfer-speeds/
+[naskiller]: https://forums.serverbuilds.net/t/guide-nas-killer-4-0-fast-quiet-power-efficient-and-flexible-starting-at-125/667/9
+[sas1]: https://www.amazon.com/gp/product/B014UYHJWS?psc=1
+[sas2]: https://www.amazon.com/Seagate-ST12000NM002G-12TB-12Gb-SAS/dp/B086WVVXCS?qsid=136-4614760-1349401&sres=B07DNVC4S6%2CB072C75QMX%2CB00X8Z77W8%2CB086WVVXCS%2CB07N1765S8%2CB00OV8RGMM%2CB074JJ2LDH%2CB07SPFPKF4%2CB07N8WP6VC%2CB084ZTSMWF%2CB07H289S7C%2CB07KPL474H%2CB07PF1TVND%2CB07X41PWTY%2CB014UYHJWS%2CB07RQ99XJH%2CB07H28M89D%2CB07H241VJY%2CB07RTMPWD8%2CB07WH3M18K&srpt=COMPUTER_DRIVE_OR_STORAGE
+[sas3]: https://www.amazon.com/Seagate-Exos-X16-16TB-Enterprise/dp/B09576YXSJ?qsid=136-4614760-1349401&sres=B07T3VQC2L%2CB08H1RZX7T%2CB07S1D53YN%2CB09576YXSJ%2CB07SPFPKF4%2CB072C75QMX%2CB0832BL1HC%2CB08K981143%2CB08DHHMZBF%2CB07SLPTK17%2CB07H289S7C%2CB07KPL474H%2CB07DNVC4S6%2CB07G5NZ35Q%2CB07X41PWTY%2CB07N8WP6VC%2CB07T3VQC2K%2CB07NBNHZ8G%2CB014UYHJWS%2CB07H28M89D&srpt=COMPUTER_DRIVE_OR_STORAGE
+[sas4]: https://www.newegg.com/seagate-exos-x16-st16000nm002g-16tb/p/N82E16822184808
+[unassb]: https://forums.serverbuilds.net/t/official-u-nas-8-bay-mini-itx-nas-otis-8th-9th-gen-intel/7335
