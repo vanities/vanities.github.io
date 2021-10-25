@@ -8,15 +8,17 @@ categories: jekyll update
 
 # NAS
 
-First Time NAS Splurge Guide.
+First Time NAS Splurge Guide. Going to get some of the parts during black friday deals.
 
 My Requirements:
 - Custom OS
 - COTS (Consumer off the shelf) ITX motherboard/CPU/RAM swappable
 - Hot-swappable bays
+- [Error correction code (ECC) RAM][ecc]
 
 Like-to-have:
 - SFX PSU compatible
+- [ECC registered motherboard (not unbuffered)][recc]
 
 
 ## Final Build:
@@ -182,3 +184,5 @@ Refs:
 [sas3]: https://www.amazon.com/Seagate-Exos-X16-16TB-Enterprise/dp/B09576YXSJ?qsid=136-4614760-1349401&sres=B07T3VQC2L%2CB08H1RZX7T%2CB07S1D53YN%2CB09576YXSJ%2CB07SPFPKF4%2CB072C75QMX%2CB0832BL1HC%2CB08K981143%2CB08DHHMZBF%2CB07SLPTK17%2CB07H289S7C%2CB07KPL474H%2CB07DNVC4S6%2CB07G5NZ35Q%2CB07X41PWTY%2CB07N8WP6VC%2CB07T3VQC2K%2CB07NBNHZ8G%2CB014UYHJWS%2CB07H28M89D&srpt=COMPUTER_DRIVE_OR_STORAGE
 [sas4]: https://www.newegg.com/seagate-exos-x16-st16000nm002g-16tb/p/N82E16822184808
 [unassb]: https://forums.serverbuilds.net/t/official-u-nas-8-bay-mini-itx-nas-otis-8th-9th-gen-intel/7335
+[ecc]: https://linustechtips.com/topic/577401-do-you-really-need-ecc-ram-for-a-home-nas/
+[recc]: https://www.servethehome.com/unbuffered-registered-ecc-memory-difference-ecc-udimms-rdimms/
