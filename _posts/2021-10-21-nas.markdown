@@ -40,6 +40,8 @@ Total|Splurge|$1289.88 + $379 * each HDD
 
 ### Custom
 
+This is the case I immediately fell in love with.
+
 [U-NAS NSC-810A Server Chassis (Power Supply Not Included)][unas810A] - $219.99
 
 Chassis Type|Mini-Tower
@@ -196,7 +198,7 @@ Refs:
 [recc]: https://www.servethehome.com/unbuffered-registered-ecc-memory-difference-ecc-udimms-rdimms/
 [final-motherboard]: https://www.supermicro.com/en/products/motherboard/X11SCL-IF
 [final-cpu]: https://www.amazon.com/gp/product/B07X9FM43J?psc=1
-[final-cpu-fans]: https://www.amazon.com/Noctua-NH-L9i-Premium-Low-profile-LGA115x/dp/B009VCAJ7W
+[final-cpu-fan]: https://www.amazon.com/Noctua-NH-L9i-Premium-Low-profile-LGA115x/dp/B009VCAJ7W
 [final-memory]: https://www.amazon.com/gp/product/B07WZWNXGQ?psc=1
 [final-riser]: https://www.amazon.com/gp/product/B08BWZSR3D?psc=1
 [final-case-fans]: https://www.amazon.com/gp/product/B00BEZZBFO?psc=1
