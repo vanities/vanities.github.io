@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perception shifting hacks"
-date:   2022-06-30 00:00:00 -0500
+date:   2022-07-04 11:06:00 -0500
 categories: jekyll update
 ---
 
