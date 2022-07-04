@@ -5,7 +5,7 @@ date:   2021-10-02 22:23:39 -0500
 categories: jekyll update
 ---
 
-This will be a mostly personally technical view on childbirth in a hospital and the side effects from a non-medical programmer. Becoming a parent is a rite of passage traveled only by the unselfish lunatics that desire to care for a helpless baby for years in search of a family. The road is long with sleepless nights, but worth it for a smile from the most innocent among us.
+This will be a mostly personal technical view on childbirth in a hospital and the side effects from a non-medical knowing software engineer. Becoming a parent is a rite of passage traveled only by the unselfish lunatics that desire to care for a helpless baby for years in search of a family. The road is long with sleepless nights, but worth it for a smile from the most innocent among us.
 
 
 ## Induction
