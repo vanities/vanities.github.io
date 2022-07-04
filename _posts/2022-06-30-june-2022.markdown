@@ -5,18 +5,18 @@ date:   2022-06-30 00:00:00 -0500
 categories: jekyll update
 ---
 
-# June 2022 updates
-
 ### Books Read:
-[Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)][clean-arch]
-Rating: ⭐️⭐️⭐️⭐️
+[Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)][clean-arch]<br>
+Rating: ⭐️⭐️⭐️⭐️<br>
 Uncle Bob books are always good, learned a lot about Programming Paradigms (Structured Programming, Object-Oriented Programming, Functional Programming), Design Principles ([SOLID][solid]), Component Principles (Cohesion and Coupling), Independence, Boundaries & Policy, & finally, architecture components that are details (The web, what kind of database, what framework).
+<br>
 <img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" />
+<br>
 
-
-### Compute:
+### Computing:
 - worked on the first 3 chapters of [speedrun-eth][eth], which is a series of programming exercises to learn how to create full-stack projects that can create nfts, tokens, and how to stake.
 - I got to re-learn how to use LaTeX and created a [LaTeX form of my Resume][resume].
+<br>
 
 ### Log:
 This month I took off from work mostly after being reduced to part-time at Fun. Spent a lot of time with Solomon and Angela as we went to Perdido Key, Florida, near Pensacola. We went to the Naval Museum there, which was a treat and saw the Blue Angles fly. [Watched SGDQ and got to see them run a giant Arbitrary Code Execution on Zelda 64.][zelda] Finished [Breath of Fire 3][bof] for PS1.

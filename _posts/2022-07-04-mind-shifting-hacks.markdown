@@ -5,8 +5,6 @@ date:   2022-07-04 11:06:00 -0500
 categories: jekyll update
 ---
 
-# Perception Shifting Hacks
-
 ## Summary
 These are a list of positions you can take in your mind that radically shift your perception on life.
 
