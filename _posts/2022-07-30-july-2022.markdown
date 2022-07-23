@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "July 2022"
+date:   2022-07-30 00:00:00 -0500
+categories: jekyll update
+---
+
+### Books Reading:
+[Clean Craftsmanship: Disciplines, Standards, and Ethics (Robert C. Martin Series) 1st Edition][clean-craftsman]<br>
+<br>
+
+### Computing:
+- Contributed to an open source [Heroku Buildpack for python graphviz][https://github.com/weibeld/heroku-buildpack-graphviz/pull/18].
+    - Used for graphing models in Django.
+- Updated and documented my [django REST template app][django].
+- Finished reading how [NextJS][nextjs] works.
+    - How pages and routes are created and rendered, client/server side.
+    - How the compiling, minifying, and bundling works.
+- Learned how to deploy a NextJS app with [Vercel][vercel].
+    - apply environment variables and pipelines
+- Read all of [Redux's][redux] documentation on hooks.
+    - Importance of defining typed hooks.
+    - `useDispatch` and `useSelector` and how to use them.
+- Read all of [Redux Toolkit (RTK) - Query][rtk] on how to build clean API hooks for React.
+    - Mainly in the [customizing query][crtk] getting automatic auth, retries, and refreshing working.
+<br>
+
+### Log:
+This month I joined open3 as a Senior Software Engineer, working on the architecture of their client and backend admin. After my first week of being able to work in a React, NextJS, and Redux environment, I began the journey of mastering one of the holes in my software career: building responsive websites. I've built robust backends and iOS apps with complex logic and tons of tests, but never a react app. So this is a wonderful learning experience as you may see in the computing category! The team is also very active and inspiring, it's been a wonderful couple weeks with them so far.
+
+Smoked a side of a salmon with:
+
+1. Curing for 8 hours
+- 1 1/2 salt
+- 1 1/2 brown sugar
+- some garlic powder
+
+2. Drying in the fridge 8 hour by washing the salt and brown sugar and wrapping in plastic wrap
+3. Smoking for 4 hours.
+
+
+
+[clean-craftsman]: https://www.amazon.com/dp/013691571X/ref=emc_b_5_i
+[open3]: https://www.open3.com/
+[graphviz]: https://github.com/weibeld/heroku-buildpack-graphviz/pull/18
+[django]: https://github.com/vanities/django-rest-template
+[nextjs]: https://nextjs.org/learn/foundations/about-nextjs?utm_source=next-site&utm_medium=nav-cta&utm_campaign=next-website
+[vercel]: https://vercel.com/
+[redux]: https://redux-toolkit.js.org/tutorials/typescript
+[rtk]: https://redux-toolkit.js.org/rtk-query/overview
+[crtk]: https://redux-toolkit.js.org/rtk-query/usage/customizing-queries
