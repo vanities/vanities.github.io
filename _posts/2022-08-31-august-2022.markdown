@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "August 2022"
+date:   2022-08-31 00:00:00 -0500
+categories: jekyll update
+---
+
+### Books Reading:
+[Gaddafi's "The Green Book"][green-book]<br>
+[Starsight][starsight]<br>
+<br>
+
+### Computing:
+- Deployed 8 Free to mint contracts to mainnet ethereum:
+    - Deployer Address: 0xaef4d46fb7b345559d2a4519956b38da98bdb4e0
+|Project Name|Token Contract|Distributor Contract|Open Sea|
+|------------|--------------|--------------------|--------|
+|Down Bad Degen|[0x7b092ea548206474a1b970bc33a273bac3173b51][dbd]|N/A|[here][dbdos]|
+|Expanding Minds|[0x3f49f7329b5525c55b0152b29f7cb77d04e2f97c][em]|N/A|[here][emos]|
+|Walter Ego|[0x799CcCb6D0C57345c4DAB303c81A5CDffbCDEa76][we]|N/A|[here][weos]|
+|The Cursed Cats|[0xc48d80fDede4c8A92c9eB96EdD8C16cDcB609Db2][tcc]|N/A|[here][tccos]|
+|Sweetheart Grips|[0xD38D3a097AFc8f7b161884e38815363fFC0d4dc0][swg]|N/A|[here][swgos]|
+|MetaFaces / RandomCrew|[0x32eE6832B36D3EE20e765894f0FA921C65ffdc48][mfrc]|N/A|[here][mfrcos]|
+|Masters of Meditation|[0x51b4aD1eDEC65628E3F46fA8668437E03d9b9c9A][mom]|N/A|[here][momos]|
+|How To Paint The Joker|[0x691DC068CAaC48c47596eDB41E35a59E0806B68b][htpj]|N/A|[here][htpjos]|
+
+- updated swiftchan to show progress downloading on webms, images, and gifs
+
+<br>
+
+### Log:
+The past month has been a lot of work. We deployed all these projects, and minted out 4 or 5 of them! I officially know how to do React work and how to build, test, and deploy smart contracts from beginning to end on Ethereum.
+
+This month was my birthday, had a good one with Angela making my favorite dish she makes: Orange Chicken with stick rice and tempura vegetables.
+
+
+
+[green-book]: https://www.amazon.com/Gaddafis-Green-Book-Muammar-al-Gaddafi/dp/1541241312/ref=sr_1_5?crid=9BA1GREX2437&keywords=the+green+book&qid=1662411317&sprefix=the+green+book%2Caps%2C234&sr=8-5
+[starsight]: https://www.amazon.com/Starsight-Brandon-Sanderson-audiobook/dp/B07VVFD71M/ref=sr_1_4?keywords=starlight+book&qid=1662411395&sr=8-4
+[dbd]: https://etherscan.io/address/0x7b092ea548206474a1b970bc33a273bac3173b51
+[dbdos]: https://opensea.io/collection/down-bad-degen
+[em]: https://etherscan.io/address/0x3f49f7329b5525c55b0152b29f7cb77d04e2f97c
+[we]: https://etherscan.io/address/0x799cccb6d0c57345c4dab303c81a5cdffbcdea76
+[tcc]: https://etherscan.io/address/0xc48d80fdede4c8a92c9eb96edd8c16cdcb609db2
+[swg]: https://etherscan.io/address/0xd38d3a097afc8f7b161884e38815363ffc0d4dc0
+[mfrc]: https://etherscan.io/address/0x32ee6832b36d3ee20e765894f0fa921c65ffdc48
+[mom]: https://etherscan.io/address/0x51b4ad1edec65628e3f46fa8668437e03d9b9c9a
+[htpj]: https://etherscan.io/address/0x691dc068caac48c47596edb41e35a59e0806b68b
+[htpjos]: https://opensea.io/collection/how-to-paint-the-joker
+[momos]: https://opensea.io/collection/masters-of-meditation
+[mfrcos]: https://opensea.io/collection/metafaces-randomcrew-withopen3
+[swgos]: https://opensea.io/collection/sweetheart-grips
+[tccos]: https://opensea.io/collection/the-cursed-cats
+[weos]: https://opensea.io/collection/walter-ego
+[emos]: https://opensea.io/collection/expanding-minds-withopen3
