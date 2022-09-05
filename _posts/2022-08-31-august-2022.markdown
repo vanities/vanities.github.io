@@ -13,6 +13,7 @@ categories: jekyll update
 ### Computing:
 - Deployed 8 Free to mint contracts to mainnet ethereum:
     - Deployer Address: 0xaef4d46fb7b345559d2a4519956b38da98bdb4e0
+
 |Project Name|Token Contract|Distributor Contract|Open Sea|
 |------------|--------------|--------------------|--------|
 |Down Bad Degen|[0x7b092ea548206474a1b970bc33a273bac3173b51][dbd]|N/A|[here][dbdos]|
@@ -20,18 +21,24 @@ categories: jekyll update
 |Walter Ego|[0x799CcCb6D0C57345c4DAB303c81A5CDffbCDEa76][we]|N/A|[here][weos]|
 |The Cursed Cats|[0xc48d80fDede4c8A92c9eB96EdD8C16cDcB609Db2][tcc]|N/A|[here][tccos]|
 |Sweetheart Grips|[0xD38D3a097AFc8f7b161884e38815363fFC0d4dc0][swg]|N/A|[here][swgos]|
-|MetaFaces / RandomCrew|[0x32eE6832B36D3EE20e765894f0FA921C65ffdc48][mfrc]|N/A|[here][mfrcos]|
-|Masters of Meditation|[0x51b4aD1eDEC65628E3F46fA8668437E03d9b9c9A][mom]|N/A|[here][momos]|
-|How To Paint The Joker|[0x691DC068CAaC48c47596eDB41E35a59E0806B68b][htpj]|N/A|[here][htpjos]|
+|MetaFaces / RandomCrew|[0x32eE6832B36D3EE20e765894f0FA921C65ffdc48][mfrc]|[0x318a9c476797c06d8ed225eb183c3a8da742954f][mfrcd]|[here][mfrcos]|
+|Masters of Meditation|[0x51b4aD1eDEC65628E3F46fA8668437E03d9b9c9A][mom]|[0x5B9AabD50a2dDf3F079Fd8f2339d38A918B252F8][momd]|[here][momos]|
+|How To Paint The Joker|[0x691DC068CAaC48c47596eDB41E35a59E0806B68b][htpj]|[0x52AEC50bE9c976c115CD62076419e00Cd41cBA94][htpjd]|[here][htpjos]|
 
 - updated swiftchan to show progress downloading on webms, images, and gifs
 
 <br>
 
 ### Log:
-The past month has been a lot of work. We deployed all these projects, and minted out 4 or 5 of them! I officially know how to do React work and how to build, test, and deploy smart contracts from beginning to end on Ethereum.
+The past month has been a lot of work. We deployed all these projects, and minted out 4 or 5 of them! I officially know how to do React work and how to build, test, and deploy smart contracts from beginning to end on Ethereum. It's been an incredibly fulfilling set of work that has really leveled me up as an Engineer and a Team player. Thanks to the whole open3 team, it's been an amazing time so far!
 
 This month was my birthday, had a good one with Angela making my favorite dish she makes: Orange Chicken with stick rice and tempura vegetables.
+
+We bought 12 more chicks this month to replace some of the ones that didn't make it through last years winter/summer.
+
+We went to the Green family reunion and my Great Aunt Faye died while we were there. It was a pretty wild experience, one moment she was there taking pictures with us and the next she was getting taken out with an ambulance. She died on the way to the hospital. It was surreal feeling the mortality of everyone in the room, especially the last remaining family members of our original family.
+
+Solomon keeps say HEY and UH-OH. He began taking his first steps this month unassisted, it's very cool to be a witness to him learning so quickly.
 
 
 
@@ -53,3 +60,6 @@ This month was my birthday, had a good one with Angela making my favorite dish s
 [tccos]: https://opensea.io/collection/the-cursed-cats
 [weos]: https://opensea.io/collection/walter-ego
 [emos]: https://opensea.io/collection/expanding-minds-withopen3
+[mfrcd]: https://etherscan.io/address/0x318a9c476797c06d8ed225eb183c3a8da742954f
+[momd]: https://etherscan.io/address/0x5b9aabd50a2ddf3f079fd8f2339d38a918b252f8
+[htpjd]: https://etherscan.io/address/0x52aec50be9c976c115cd62076419e00cd41cba94
