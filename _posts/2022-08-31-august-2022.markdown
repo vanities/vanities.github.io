@@ -12,7 +12,7 @@ categories: jekyll update
 
 ### Computing:
 - Deployed 8 Free to mint contracts to mainnet ethereum:
-    - Deployer Address: 0xaef4d46fb7b345559d2a4519956b38da98bdb4e0
+    - Deployer Address: [0xaef4d46fb7b345559d2a4519956b38da98bdb4e0][d]
 
 |Project Name|Token Contract|Distributor Contract|Open Sea|
 |------------|--------------|--------------------|--------|
@@ -40,6 +40,10 @@ We went to the Green family reunion and my Great Aunt Faye died while we were th
 
 Solomon keeps say HEY and UH-OH. He began taking his first steps this month unassisted, it's very cool to be a witness to him learning so quickly.
 
+Gas prices keep going down.
+
+Not excited to see more about the [Federal Reserves FedNow][gg]. Seems like a CBDC is soon over the horizon.
+
 
 
 [green-book]: https://www.amazon.com/Gaddafis-Green-Book-Muammar-al-Gaddafi/dp/1541241312/ref=sr_1_5?crid=9BA1GREX2437&keywords=the+green+book&qid=1662411317&sprefix=the+green+book%2Caps%2C234&sr=8-5
@@ -63,3 +67,5 @@ Solomon keeps say HEY and UH-OH. He began taking his first steps this month unas
 [mfrcd]: https://etherscan.io/address/0x318a9c476797c06d8ed225eb183c3a8da742954f
 [momd]: https://etherscan.io/address/0x5b9aabd50a2ddf3f079fd8f2339d38a918b252f8
 [htpjd]: https://etherscan.io/address/0x52aec50be9c976c115cd62076419e00cd41cba94
+[d]: https://etherscan.io/address/0xaef4d46fb7b345559d2a4519956b38da98bdb4e0
+[gg]: https://odysee.com/@GeorgeGammon:9/it's-happening...are-you-prepared:3
