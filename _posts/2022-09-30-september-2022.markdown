@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "September 2022"
+date:   2022-09-30 00:00:00 -0500
+categories: jekyll update
+---
+
+### Books Reading:
+[The Cold Start Problem By: Andrew Chen][cold-start]<br>
+[Who: The A Method for Hiring By: Geoff Smart, Randy Street][who]<br>
+[The Prince By: Niccolo Machiavelli][prince]<br>
+
+### Computing:
+- Deployed more contracts to ethereum, including soulbound, burnable, 1155's, dynamic & static, centralized and decentralized contracts:
+    - Deployer Address: [0xaef4d46fb7b345559d2a4519956b38da98bdb4e0][d]
+
+OfficialWINO Wine Club (WINO): [0x051511467Cc574636033b474fb4c111819C81169][w]
+oTTo: [0x0157cEE8B56d75ca4C583DF2a5e9ac8C32F63967][o]
+Metathirst: [0x9F41Dd845121510D47D9C497a1baEDb91F28f643][m]
+ALTARS: [0x35C4EE48A8848F7A76bCE539cEE06c63C8fad039][a]
+SchoolBound Tokens: [0x1c4836720ccb8606091897452677041A66C96493][u]
+Che Guevara: [0xE960Df90A327aaFEc6d27419cB21B98731F5400C][c]
+Tweetbound Tokens: [0x6ad1553C0f603cEe52401A3f606d187dC3daAFd6][t]
+Tiger & The Fish: [0x231Dec9E55Ea6b4969483572878B2bdA98Dc0633][f]
+yes those kinds of mushrooms: [0xBA070D23408f9fbC9A2f18E2cA8C7A35A6A91412][y] ([porous walker][p])
+
+- Been messing with [stablediffusion from a user named AUTOMATIC1111][automatic], made some cool D&D characters and other things. NovelAI's model leaked, which was interesting.
+    - [if you ever want to laugh about a github issue on a user requesting a whole repository to be re-written in rust, check this out][rust]
+
+
+- updated swiftchan, added party hats for the birthday. Seems like the webm loading works near flawlessly. Upgraded to ios 16, got the new iphone 14 pro.
+
+<br>
+
+### Log:
+We've gotten so much done at work, many more contracts, including new concepts like 1155's and soulbound NFTs.
+
+Mtgox is finally doing KYC to repay their creditors.
+
+Solomon is walking everywhere now, it only took him a couple weeks of constantly falling to become very proficient. He still falls, but is much more consistent! He had his first birthday, where he dressed up as baby mario and I was yoshi.
+
+
+
+[cold-start]: https://www.audible.com/pd/The-Cold-Start-Problem-Audiobook/0062969765?ref=web_search_eac_asin_1&qid=c05W71dY8g&sr=1-1
+[who]: https://www.audible.com/pd/Who-Audiobook/B002V5D3TC?ref=a_library_t_c5_libItem_&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=R3RV5DMG3D80WH3P5S4F
+[prince]: https://www.audible.com/pd/The-Prince-Audiobook/B00FDUJBUC?ref=a_library_t_c5_libItem_&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=R3RV5DMG3D80WH3P5S4F
+[rust]: https://github.com/CompVis/stable-diffusion/issues/283
+[w]: https://etherscan.io/address/0x051511467cc574636033b474fb4c111819c81169
+[o]: https://etherscan.io/address/0x0157cee8b56d75ca4c583df2a5e9ac8c32f63967
+[m]: https://etherscan.io/address/0x9f41dd845121510d47d9c497a1baedb91f28f643
+[a]: https://etherscan.io/address/0x35c4ee48a8848f7a76bce539cee06c63c8fad039
+[u]: https://etherscan.io/address/0x1c4836720ccb8606091897452677041a66c96493
+[c]: https://etherscan.io/address/0xe960df90a327aafec6d27419cb21b98731f5400c
+[t]: https://etherscan.io/address/0x6ad1553c0f603cee52401a3f606d187dc3daafd6
+[f]: https://etherscan.io/address/0x231dec9e55ea6b4969483572878b2bda98dc0633
+[y]: https://etherscan.io/address/0xba070d23408f9fbc9a2f18e2ca8c7a35a6a91412
+[p]: https://theporouswalker.com/
+[automatic]: https://github.com/AUTOMATIC1111/stable-diffusion-webui
