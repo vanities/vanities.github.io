@@ -7,25 +7,28 @@ categories: jekyll update
 
 ### Books Reading:
 [The Cold Start Problem By: Andrew Chen][cold-start]<br>
+- great book on exploring how tech’s most successful products and companies solved the dreaded "cold start problem” by using network effects to launch and ultimately scale to billions of users.
 [Who: The A Method for Hiring By: Geoff Smart, Randy Street][who]<br>
+- enjoyed this book a ton, learned about a 4 step protocol for hiring that produces A player results. [Here is a link of a comprehensive summary][x]
 [The Prince By: Niccolo Machiavelli][prince]<br>
+- been wanting to read this since I hear so much about him in conspiracy theories. Best summary I can think of is an 1500's version of the Art of War, where there is more politics and even more wicked people. A never ending quote machine of a book.
 
 ### Computing:
 - Deployed more contracts to ethereum, including soulbound, burnable, 1155's, dynamic & static, centralized and decentralized contracts:
     - Deployer Address: [0xaef4d46fb7b345559d2a4519956b38da98bdb4e0][d]
 
-OfficialWINO Wine Club (WINO): [0x051511467Cc574636033b474fb4c111819C81169][w]
-oTTo: [0x0157cEE8B56d75ca4C583DF2a5e9ac8C32F63967][o]
-Metathirst: [0x9F41Dd845121510D47D9C497a1baEDb91F28f643][m]
-ALTARS: [0x35C4EE48A8848F7A76bCE539cEE06c63C8fad039][a]
-SchoolBound Tokens: [0x1c4836720ccb8606091897452677041A66C96493][u]
-Che Guevara: [0xE960Df90A327aaFEc6d27419cB21B98731F5400C][c]
-Tweetbound Tokens: [0x6ad1553C0f603cEe52401A3f606d187dC3daAFd6][t]
-Tiger & The Fish: [0x231Dec9E55Ea6b4969483572878B2bdA98Dc0633][f]
-yes those kinds of mushrooms: [0xBA070D23408f9fbC9A2f18E2cA8C7A35A6A91412][y] ([porous walker][p])
+OfficialWINO Wine Club (WINO): [0x051511467Cc574636033b474fb4c111819C81169][w]<br>
+oTTo: [0x0157cEE8B56d75ca4C583DF2a5e9ac8C32F63967][o]<br>
+Metathirst: [0x9F41Dd845121510D47D9C497a1baEDb91F28f643][m]<br>
+ALTARS: [0x35C4EE48A8848F7A76bCE539cEE06c63C8fad039][a]<br>
+SchoolBound Tokens: [0x1c4836720ccb8606091897452677041A66C96493][u]<br>
+Che Guevara: [0xE960Df90A327aaFEc6d27419cB21B98731F5400C][c]<br>
+Tweetbound Tokens: [0x6ad1553C0f603cEe52401A3f606d187dC3daAFd6][t]<br>
+Tiger & The Fish: [0x231Dec9E55Ea6b4969483572878B2bdA98Dc0633][f]<br>
+yes those kinds of mushrooms: [0xBA070D23408f9fbC9A2f18E2cA8C7A35A6A91412][y] ([porous walker][p])<br>
 
 - Been messing with [stablediffusion from a user named AUTOMATIC1111][automatic], made some cool D&D characters and other things. NovelAI's model leaked, which was interesting.
-    - [if you ever want to laugh about a github issue on a user requesting a whole repository to be re-written in rust, check this out][rust]
+    - [if you ever want to laugh about a github issue on a user requesting a whole repository be re-written in rust, check this out][rust]
 
 
 - updated swiftchan, added party hats for the birthday. Seems like the webm loading works near flawlessly. Upgraded to ios 16, got the new iphone 14 pro.
@@ -56,3 +59,4 @@ Solomon is walking everywhere now, it only took him a couple weeks of constantly
 [y]: https://etherscan.io/address/0xba070d23408f9fbc9a2f18e2ca8c7a35a6a91412
 [p]: https://theporouswalker.com/
 [automatic]: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+[x]: https://maa1.medium.com/almost-everyone-i-speak-to-complains-about-how-hard-it-is-to-hire-good-product-people-48d995156c50
