@@ -38,7 +38,7 @@ yes those kinds of mushrooms: [0xBA070D23408f9fbC9A2f18E2cA8C7A35A6A91412][y] ([
 ### Log:
 We've gotten so much done at work, many more contracts, including new concepts like 1155's and soulbound NFTs.
 
-Mtgox is finally doing KYC to repay their creditors.
+MTGOX is finally doing KYC to repay their creditors.
 
 Solomon is walking everywhere now, it only took him a couple weeks of constantly falling to become very proficient. He still falls, but is much more consistent! He had his first birthday, where he dressed up as baby mario and I was yoshi.
 
@@ -60,3 +60,4 @@ Solomon is walking everywhere now, it only took him a couple weeks of constantly
 [p]: https://theporouswalker.com/
 [automatic]: https://github.com/AUTOMATIC1111/stable-diffusion-webui
 [x]: https://maa1.medium.com/almost-everyone-i-speak-to-complains-about-how-hard-it-is-to-hire-good-product-people-48d995156c50
+[d]: https://etherscan.io/address/0xaef4d46fb7b345559d2a4519956b38da98bdb4e0
