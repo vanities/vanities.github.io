@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "October, November, and December 2022"
+date:   2022-12-26 00:00:00 -0500
+categories: jekyll update
+---
+
+### Books Reading:
+[Cytonic][cytonic] By: Brandon Sanderson<br>
+- love everyhing brandon writes. This series is young adult that follows a girl who has mysterious powers. One of which is being able to teleport long distances during which fiendish monsters are watching and can follow her as she uses her powers. Witty AI follows along and is just hilarious.
+
+[The Federalist Papers][federalist] By: Alexander Hamilton, James Madison, John Jay<br>
+- great book that captures the differences between the federalists and anti-federalists and the propaganda they used against each other to shape our country very early. This book swayed me even more to lesser government and anti-federalist, even though that is not the road we took as a country. Recommended by Ben Shapiro
+
+[Economics in One Lesson][economics] By: Henry Hazlitt<br>
+- interesting lesson: "The art of economics consists in looking not merely at the immediate but at the longer effects of any act or policy; it consists in tracing the consequences of that policy not merely for one group but for all groups.", in short- don't be short-sighted in economics, there are always more aspects to complex systems than you think. Section two had really well thought out examples of fallacies breakers of the above rule will say and do.
+
+### Log:
+Ready for MTGOX payout!
+
+Got really sick in November, I'm guess it was RSV. Had chills, lethargy, fevers, and muscle aches. Lots of runny and blowing noses and a slight cough. Was out for about 5 days in total. Not fun.
+
+Solomon is talking more, can say Hi, Bye, Die (lol), Uh-Oh, Kitty, There (and point), All done (in sign language), Can sometimes point to Eyes, Nose, Mouth, or Ears, Cheese, Banana, probably more. He's doing well, had a good Christmas. He got too many more toys, more than we know where to store.
+
+Got to watch [the power grid of the middle usa][power] plummet as we had a polar vortex! It got down to -10's here in Tennessee, which is unheard of. Apparently Angela has been hearing about a bunch of adults who have never heard of letting your tap drip while it's below freezing and their pipes burst.. It's all over the news and internet. Wild that some people have still never heard of it.
+
+
+
+
+[cytonic]: https://www.amazon.com/Cytonic-Skyward-Book-Brandon-Sanderson-ebook/dp/B093P86W32
+[federalist]: https://www.audible.com/pd/The-Federalist-Papers-Audiobook/B002V8H24G?ref=a_library_t_c5_libItem_B002V8H24G&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=JJF5JRRF49KK2AJM4SA9
+[economics]: https://www.audible.com/pd/Economics-in-One-Lesson-Audiobook/B002V0KK0C?ref=a_library_t_c5_libItem_B002V0KK0C&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=JJF5JRRF49KK2AJM4SA9
+[power]: https://poweroutage.us/
