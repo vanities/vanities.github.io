@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Decemeber 2022"
+date:   2023-01-01 00:00:00 -0500
+categories: jekyll update
+---
+
+### Games Playing:
+After the announcement of Armored Core VI, this month I went down a rabbit hole of older [From Software][fs] games. Followed /r/armoredcore and the Armored Core general on /m/. I love their studio, they are, in my opinion, the pinnacle of gameplay in video games. They control the pacing of difficulty incredibly well and do not plateau like most game studios.
+
+![ac](assets/images/ac.jpg)
+
+[Armored Core 2][ac2]: Awesome game to start on, the controls were a trip at first, but the gameplay and difficulty really hooked me.
+
+[Armored Core 1][ac1]: Next game I played, had the controls down at this point. Got most of the hidden weapons and steamrolled the game.
+
+[Armored Core 3][ac3]: This one was apparently easier than AC2, but I had a harder time with it. Maybe it was the route I went in this one, but the arena was also harder.
+
+Next up is going into Nexus and Last Raven. I need to beat the hard ones >:)
+
+### Log:
+
+Made it the whole year without coffee. Drinking a cup now.
+
+Learned how to smoke ribs and am smoking pork butt right now.
+
+Put up a perimeter fence around our property to keep the dogs and foxes out.
+
+
+[fs]: https://en.wikipedia.org/wiki/FromSoftware
+[ac2]: https://en.wikipedia.org/wiki/Armored_Core_2
+[ac1]: https://en.wikipedia.org/wiki/Armored_Core_(video_game)
+[ac3]: https://en.wikipedia.org/wiki/Armored_Core_3
