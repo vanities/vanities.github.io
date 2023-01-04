@@ -8,8 +8,10 @@ categories: jekyll update
 ### Books Reading:
 [The Cold Start Problem By: Andrew Chen][cold-start]<br>
 - great book on exploring how tech’s most successful products and companies solved the dreaded "cold start problem” by using network effects to launch and ultimately scale to billions of users.
+<br>
 [Who: The A Method for Hiring By: Geoff Smart, Randy Street][who]<br>
 - enjoyed this book a ton, learned about a 4 step protocol for hiring that produces A player results. [Here is a link of a comprehensive summary][x]
+<br>
 [The Prince By: Niccolo Machiavelli][prince]<br>
 - been wanting to read this since I hear so much about him in conspiracy theories. Best summary I can think of is an 1500's version of the Art of War, where there is more politics and even more wicked people. A never ending quote machine of a book.
 
