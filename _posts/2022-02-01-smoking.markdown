@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Smoking"
+date:   2023-02-01 11:06:00 -0500
+categories: jekyll update
+---
+
+## Summary
+Went down a rabbit whole of smoking meat, started off smoking salmon, then moved to pig and cow. Got a pellet smoker from my grandparents for free. Found out offset smokers are the best for flavor, but require more attention tending to the fire, I might get one later.
+
+None of these recipes are my own, mostly stolen from [Mad Scientist BBQ][msbbq].
+
+
+1. Salmon
+
+Watched this [video][salmon], got some ideas from the chef. He cures the fish for a lot longer than prescribed by other recipes online.
+
+- 1/2 Salt 1/2 Brown Sugar Mixture, coat the salmon in this and cure for 12 hours
+- Wash the salmon and pat dry and let dry for 12 hours
+- Smoke at 225°F for 4 hours
+- Look for internal temp of.
+
+
+2. Pork Spare Ribs
+
+This [video][porkribs] is what got me into this guy. Made these for Christmas dinner, which was a hit.
+
+- Season with salt & pepper
+- 4 hours in the smoke at 225°F, start spritzing w/vinegar solution every 15-20 minutes after the 3rd hour
+- Increase temp to 275°F for 1 hour to enhance pull-back effect
+- Wrap ribs in smoked lard butcher paper
+- Put on smoker for ~30 minutes, pull at ~207°F internal or when meat has the probe resistance of softened butter
+- Glaze ribs (if desired) and put back on smoker until sticky
+
+3. Pork Butt
+
+Commonly known as pulled pork, very easy to make and hard to mess up. This [video][porkbutt] is crucial.
+
+- Score fat & season w/ rub or just salt & pepper
+- 3 to 4 hours in smoker at 250°F
+- After 3 to 4 hours spray with apple cider vinegar solution (avoid spraying fat) and continue to spray every 30 - 45 minutes until wrapping
+- Note: at this point Jeremy checked his internal temp which was around 156°F, the target temp before wrapping is around 170°F
+- After 6 hours in the smoker check internal temp, if your temp is close to 170°F and your finger sinks into fat when you poke it, then it is time to wrap
+- If not leave it on the smoker until desired temp is reached and fat is rendered
+- Wrap tightly in 2 layers of heavy duty aluminum foil and place the wrapped meat back on the smoker (still 250°F) or in oven (at 250°F)
+- About 2 hours after wrapping, check temp, the target temp is 203-204°F
+- Note: the internal temp and feel of the meat (i.e. probes like butter) are the most important indicators that your meat is done cooking
+- When meat is done cooking let it rest for at least 1 hour
+- Remove the bone and shred/pull apart pork as you want it to avoid drying it out
+
+4. Whole Chicken
+
+Not really much smoke can be applied to chicken, but if you can make it juicy, crispy, and smoking, you win. Here's the [video][chicken] on that.
+
+- Cut around neck and butt
+- Season with 1/2 salt and pepper
+- 200°F/225°F for 2 hours
+- 325°F for 15 minutes
+- Look for internal temp of 165°F
+
+
+5. Brisket
+
+
+[msbbq]: https://www.youtube.com/@MadScientistBBQ
+[salmon]: https://www.youtube.com/watch?v=mCWTzkhFg1M
+[porkribs]: https://www.youtube.com/watch?v=YlK-za2JZqg
+[porkbutt]: https://www.youtube.com/watch?v=rgPJxy_IngY
+[chicken]: https://www.youtube.com/watch?v=-JJx4eZNmz4
