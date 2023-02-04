@@ -5,7 +5,7 @@ date:   2023-02-01 11:06:00 -0500
 categories: jekyll update
 ---
 
-## Summary
+# Summary
 Went down a rabbit whole of smoking meat, started off smoking salmon, then moved to pig and cow. Got a pellet smoker from my grandparents for free. Found out offset smokers are the best for flavor, but require more attention tending to the fire, I might get one later.
 
 None of these recipes are my own, mostly stolen from [Mad Scientist BBQ][msbbq].
@@ -13,7 +13,9 @@ None of these recipes are my own, mostly stolen from [Mad Scientist BBQ][msbbq].
 With the large meats, they can be frozen for 6-12 months. For every 5lbs, they will need a full day in the freezer to dethaw. After defthawing, red meats will stay for up to 5 days in the fridge.
 
 
-1. Salmon
+## Salmon
+
+Time: 4 hours: 4 in smoker
 
 Watched this [video][salmon], got some ideas from the chef. He cures the fish for a lot longer than prescribed by other recipes online.But here's my recipe. The single biggest problem in smoking salmon is too high heat. If you've ever seen salmon "bleed" a white, creamy substance, that's a protein called albumin. If you see lots of it, you've screwed up; a little is normal. After an hour in the smoker, baste the fish with birch or maple syrup, or honey; do this every hour.
 
@@ -23,7 +25,7 @@ Watched this [video][salmon], got some ideas from the chef. He cures the fish fo
 - Finish at internal temp of 130°F to 140°F
 
 
-2. Pork Spare Ribs
+## Pork Spare Ribs
 
 This [video][porkribs] is what got me into this guy. Made these for Christmas dinner, which was a hit.
 
@@ -36,8 +38,9 @@ This [video][porkribs] is what got me into this guy. Made these for Christmas di
 - Glaze ribs (if desired) and put back on smoker until sticky
 - Finish at internal temp of 207°F
 
-3. Pork Butt
+## Pork Butt
 
+Time: 10 hours: 6-7 in smoker, 2 in oven, 1 resting
 Commonly known as pulled pork, very easy to make and hard to mess up. This [video][porkbutt] is crucial.
 
 - Score fat & season w/ rub or just salt & pepper
@@ -46,14 +49,14 @@ Commonly known as pulled pork, very easy to make and hard to mess up. This [vide
 - Note: at this point Jeremy checked his internal temp which was around 156°F, the target temp before wrapping is around 170°F
 - After 6 hours in the smoker check internal temp, if your temp is close to 170°F and your finger sinks into fat when you poke it, then it is time to wrap
 - If not leave it on the smoker until desired temp is reached and fat is rendered
-- Wrap tightly in 2 layers of heavy duty aluminum foil and place the wrapped meat back on the smoker (still 250°F) or in oven (at 250°F)
+- Wrap tightly in 2 layers of heavy duty butcher paper or aluminum foil and place the wrapped meat back on the smoker (still 250°F) or in oven (at 250°F)
 - About 2 hours after wrapping, check temp, the target temp is 203-204°F
 - Note: the internal temp and feel of the meat (i.e. probes like butter) are the most important indicators that your meat is done cooking
 - When meat is done cooking let it rest for at least 1 hour
 - Remove the bone and shred/pull apart pork as you want it to avoid drying it out
 - Finish at internal temp of 204°F
 
-4. Whole Chicken
+## Whole Chicken
 
 Not really much smoke can be applied to chicken, but if you can make it juicy, crispy, and smoking, you win. Here's the [video][chicken] on that.
 
@@ -64,7 +67,7 @@ Not really much smoke can be applied to chicken, but if you can make it juicy, c
 - Finish at internal temp of 165°F
 
 
-5. Brisket
+## Brisket
 
 The king of BBQ. 15lb briskets are normal, good ones being Prime. Can be bought at Sam's Club or Costco. The brisket side with the fat cap will be considered the top. Brisket contains two peck muscles from a cow, pectoralis major and pectouralis minor, which requires different cuts based on which side you're on. You must trim the thick fat on the fat cap and flabs hanging off (you can resuse them) because the fat won't render and the flabs you don't want them to get burnt during the long cook. Glean as much from these videos [1][brisket1], [2][brisket2], [3][brisket3]. And [4][brisket-pellet] if you're using a pellet grill.
 
