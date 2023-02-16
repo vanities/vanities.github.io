@@ -6,12 +6,12 @@ categories: jekyll update
 ---
 
 ### Games Playing:
-Kings Field.
-
-### Books Reading:
-Swiss Family Robinson.
+Kings Field I & Kings Field IV - great ps1 and ps2 games from [fromsoftware][fs].
 
 Next up is going into Nexus and Last Raven. I need to beat the hard ones >:)
+
+### Books Reading:
+Swiss Family Robinson - Christian-tier learnings about how to raise sons.
 
 ### Log:
 

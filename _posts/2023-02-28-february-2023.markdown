@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "February 2023"
+date:   2023-01-01 00:00:00 -0500
+categories: jekyll update
+---
+
+### Games Playing:
+Hogwarts Legacy for PC
+
+
+### Books Reading:
+[Rhythm of War by Brandon Sanderson][row] - 4th book of the Stormlight Archive, amazing high fantasy novels written by Brando Sando. [This dude is an absolute legend, he wrote 5 novels in secret during the height of the pandemic.][bs]
+[The End of the World Is Just the Beginning by Peter Zeihan][eotw] - Great book covering a multitude of topics from economics of countries, to why ev cars won't take off anytime soon, and why globalization is ending and how it's going to change everything.
+[Rich Dad Poor Dad by Robert T. Kiyosaki][rdpd] - love Kiyosaki, learned a lot from his youtube podcast, and have learned even more from this book. The stories his rich dad taught him, which through real life experiences instead of books were interesting and eye opening. Robert ends up taking a good deal of thought from both dads to form a hugely successful career that they don't teach about in school.
+
+### Log:
+
+Sun room is done, finally! Got tile carpet at lowes for 75% off.
+
+Putting down our 12ft gate and bought the equipment for the automatic gate opener.
+
+
+[row]: https://www.amazon.com/Rhythm-of-War/dp/B082FQRWWR/ref=sr_1_1?crid=1O5CJL6VDEEZ8&keywords=rhythm+of+war&qid=1676514657&sprefix=rythym+of+wa%2Caps%2C107&sr=8-1
+[bs]: https://www.youtube.com/watch?v=6a-k6eaT-jQ
+[eotw]: https://www.amazon.com/End-World-Just-Beginning-Globalization/dp/B09CS8FRRD/ref=sr_1_1?keywords=the+end+of+the+world+is+just+the+beginning&qid=1676515207&sprefix=the+end+o%2Caps%2C121&sr=8-1
+[rdpd]: https://www.amazon.com/Rich-Dad-Poor-Anniversary-Middle/dp/B07QPQ8WBL/ref=sr_1_4?crid=SANKCB8GNIKX&keywords=rich&qid=1676515361&s=audible&sprefix=rich%2Caudible%2C124&sr=1-4
