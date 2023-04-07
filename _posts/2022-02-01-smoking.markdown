@@ -33,8 +33,21 @@ This [video][porkribs] is what got me into this guy. Made these for Christmas di
 - 4 hours in the smoke at 225°F, start spritzing non-fat sides w/ 1/2 vinegar 1/2 water solution every 15-20 minutes after the 3rd hour
 - Put 4 heaping scoops of pig lard in aluminum pan to smoke
 - Increase temp to 275°F for 1 hour to enhance pull-back effect
-- Wrap ribs in smoked lard butcher paper
+- Wrap ribs in smoked lard butcher paper for 30 minutes
 - Put on smoker for ~30 minutes, pull at ~207°F internal or when meat has the probe resistance of softened butter
+- Glaze ribs (if desired) and put back on smoker until sticky
+- Finish at internal temp of 207°F
+
+## Baby Back Ribs
+
+This [video][porkribs] is what got me into this guy. Made these for Christmas dinner, which was a hit.
+
+- Season 1/2 salt & 1/2 pepper mixture
+- 1 hour in the smoke at 250°F, start spritzing non-fat sides w/ 1/2 vinegar 1/2 water solution every 15-20 minutes after the 1st hour
+- after 3.5 hours, pull and rerub and vinegar spray or put pork lard on it
+- Increase temp to 275°F for 1 hour to enhance pull-back effect
+- Wrap ribs in smoked lard butcher paper for 30 minutes
+- pull at ~207°F internal or when meat has the probe resistance of softened butter
 - Glaze ribs (if desired) and put back on smoker until sticky
 - Finish at internal temp of 207°F
 
@@ -98,6 +111,31 @@ Ingredients:
 - Let it rest for 12 hours by putting it in a well insulated cooler or in an oven at 150°F.
 - Serve at 135°F/140°F
 
+## Burgers
+
+Ezpz!
+
+Time: 1 hour
+
+- Season with salt, pepper, garlic powder.
+- Smoke at 225°F for an hour or until 135°F
+- Bump up heat to 300°F for like 10-20 minutes
+- Finish at internal temp of 165°F
+
+## Precooked Bone-In Sliced Ham
+
+Time: 3 hours est. 10-15 per lb
+Weight: 7-10lbs
+
+[a good video][ham].
+
+- Put in a pan with a grate
+- Brush Dijon Mustard on, then put sweet rub on
+- Smoke at 250°F
+- Glaze ham at 130°F for another 30 minutes
+- Finish at internal temp of 140°F
+- Rest for 30 minutes
+
 
 [msbbq]: https://www.youtube.com/@MadScientistBBQ
 [salmon]: https://www.youtube.com/watch?v=mCWTzkhFg1M
@@ -108,3 +146,4 @@ Ingredients:
 [brisket2]: https://www.youtube.com/watch?v=kE2RisA2mHY
 [brisket3]: https://www.youtube.com/watch?v=qsCVMmmNRec
 [brisket-pellet]: https://www.youtube.com/watch?v=EMeAGp_8sG8
+[ham]: https://youtu.be/AiUr5mYkkVE
