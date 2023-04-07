@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "March 2023"
+date:   2023-03-01 00:00:00 -0500
+categories: jekyll update
+---
+
+### Games Playing:
+Hogwarts Legacy for PC
+And VR Games with my Nephew
+
+
+### Books Reading:
+[Dawnshard][ds] by Brandon Sanderson - a Novella before Rhythm of War that I'm catching up on.<br>
+[Tress of the Emerald Sea][tress] by Brandon Sanderson - both this and the book above are about sailing. Great book with a cool magic system with the spores. It caught me in very quickly and I read it like an addict.<br>
+[Raising Good Humans: A Mindful Guide to Breaking the Cycle of Reactive Parenting and Raising Kind, Confident Kids][humans] by Hunter Clarke-Fields MSAE - interesting take on meditaiton, mindfulness and control of your emotions as a parent.<br>
+
+
+### Log:
+
+
+[ds]: https://www.amazon.com/Audible-Dawnshard-Stormlight-Archive/dp/B0B75LSVVX/ref=sr_1_1?crid=2VVMH2WWXF9XW&keywords=dawnshard+sanderson&qid=1678912932&sprefix=dawnshar+sanderson%2Caps%2C101&sr=8-1
+[tress]: https://www.amazon.com/Trenza-del-Esmeralda-Tress-Emerald/dp/B0BT256RGS/ref=sr_1_1?crid=1LE2QQC6RYTI7&keywords=brandon+sanderson+tress&qid=1678913089&s=audible&sprefix=brandon+sanderson+tress%2Caudible%2C97&sr=1-1
+[humans]: https://www.amazon.com/Raising-Good-Humans-Parenting-Confident/dp/B08FW8M7WG/ref=sr_1_1?keywords=raising+good+humans&qid=1678913227&s=audible&sprefix=raising%2Caudible%2C97&sr=1-1
