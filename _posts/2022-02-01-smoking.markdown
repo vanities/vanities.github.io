@@ -136,6 +136,19 @@ Weight: 7-10lbs
 - Finish at internal temp of 140°F
 - Rest for 30 minutes
 
+## Pork Loin
+[Use this for reference][porkloin]
+
+Time: 5 hours est.
+Weight: 8-10lbs
+
+- Season
+- Put in @ 180°F for around 3 1/2 hours.
+- At internal of 120°F Dial up to 500°F to get a good crisp on the outside (around 1/2 hour)
+- Pull out at 145°F
+- Let rest for 2 minutea
+
+
 
 [msbbq]: https://www.youtube.com/@MadScientistBBQ
 [salmon]: https://www.youtube.com/watch?v=mCWTzkhFg1M
@@ -147,3 +160,4 @@ Weight: 7-10lbs
 [brisket3]: https://www.youtube.com/watch?v=qsCVMmmNRec
 [brisket-pellet]: https://www.youtube.com/watch?v=EMeAGp_8sG8
 [ham]: https://youtu.be/AiUr5mYkkVE
+[porkloin]: https://www.youtube.com/watch?v=zSHJJiq5w4w
