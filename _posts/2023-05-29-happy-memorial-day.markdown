@@ -24,5 +24,8 @@ This year I met up with a friend from my Security division that told me that abo
 
 I pray for the families of my friends.
 
+[War is where the rich pay 50% of the world to kill the other 50%.][war]
+
 
 [wiki]: https://en.wikipedia.org/wiki/Memorial_Day
+[war]: https://youtu.be/TeO9RVKur-E?t=2025
