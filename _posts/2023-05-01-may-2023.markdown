@@ -10,11 +10,11 @@ WoW classic hardcore w/ friend
 
 ### Books Reading:
 [The Frugal Wizard’s Handbook for Surviving Medieval England][fw] by Brandon Sanderson - a neat separate work from Sando's secret books. Completely different from his cosmos.<br>
-[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Day][spint] - Jake Knapp et. all - decent book about agile and sprints within a week. Ford required reading, I think The Lean Startup better<br>
+[Sprint: How to Solve Big Problems and Test New Ideas in Just Five Day][sprint] - Jake Knapp et. all - decent book about agile and sprints within a week. Ford required reading, I think The Lean Startup better<br>
 
 
 ### Log:
-Been mowing in my EV zero turn, so that's been fun.
+Been mowing in my EV zero turn, so that's been fun. Created a set of tools for myself to automate torrenting tools.
 
 [fw]: https://www.amazon.com/Wizards-Handbook-Surviving-Medieval-Projects-ebook/dp/B0BPN6KC4T/ref=sr_1_1?keywords=frugal+wizard%27s+handbook+for+surviving+medieval+england&qid=1686179184&sprefix=frugal+wi%2Caps%2C141&sr=8-1
 [sprint]: https://www.amazon.com/Sprint-audiobook/dp/B019R2DQIY/ref=sr_1_1?keywords=how+to+solve+big+problems&qid=1686179294&sprefix=how+to+solve+big%2Caps%2C110&sr=8-1
