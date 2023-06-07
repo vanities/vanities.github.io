@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "June 2023"
+date:   2023-06-01 00:00:00 -0500
+categories: jekyll update
+---
+
+### Games Playing:
+WoW classic hardcore w/ friend: super fun. Our first run was Warrior (me) / Shaman (him) and we died at 18 in The Barrens. Nowere doing duo gnome mage.
+Zelda: Tears of the Kingdom: Mostly watching my wife play this, not really interested in re-finding the same map and recollecting hearts and stamina.
+
+### Books Reading:
+[Snow Crash][sc] by Neal Stephenson -
+
+
+### Log:
+Went to [AWE][awe] for Ford, was a cool conference where Neal Stephenson spoke at. Their decentralization section wasn't very good, but it was a really cool AR/VR experience.
+
+[sc]: https://www.amazon.com/Snow-Crash-Neal-Stephenson-audiobook/dp/B00005NZJA/ref=sr_1_1?crid=HQ5YMLDIRMAC&keywords=Snow+Crash&qid=1686181343&sprefix=snow+crash%2Caps%2C116&sr=8-1
+[awe]: https://www.awexr.com/
