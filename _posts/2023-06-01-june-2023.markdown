@@ -6,8 +6,8 @@ categories: jekyll update
 ---
 
 ### Games Playing:
-WoW classic hardcore w/ friend: super fun. Our first run was Warrior (me) / Shaman (him) and we died at 18 in The Barrens. Nowere doing duo gnome mage.
-Zelda: Tears of the Kingdom: Mostly watching my wife play this, not really interested in re-finding the same map and recollecting hearts and stamina.
+WoW classic hardcore w/ friend: super fun. Our first run was Warrior (me) / Shaman (him) and we died at 18 in The Barrens. Nowere doing duo gnome mage.<br>
+Zelda: Tears of the Kingdom: Mostly watching my wife play this, not really interested in re-finding the same map and recollecting hearts and stamina.<br>
 
 ### Books Reading:
 [Snow Crash][sc] by Neal Stephenson -
