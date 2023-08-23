@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "August 2023"
+date:   2023-08-01 00:00:00 -0500
+categories: jekyll update
+---
+
+### Books Reading:
+[The Ministry for the Future][mof]: Liked the Ministry for the future. Felt bad for frank. The ending was interesting, felt a little out of place, but glad it ended on a good note. Was interesting how they felt jaded about the celebrations for Gaia at the end.
+[The Lean Startup][lean]: Re-read this after five years. A legendary book, has Farb in it.
+
+
+### Log:
+The third week in August began getting so hot, hard on my running times and endurance. This morning at 7am I saw steam rising off the blacktops. Feels like 100 with 50% humidity. Solomon is stringing words together, "Hi Daddy", "mmmmH Good Pizza!". Today he was playing with a toy and simulating it down a blanket and said "Weeee! Slide". He does like slides.
+
+[mof]: https://www.amazon.com/Ministry-Future-Kim-Stanley-Robinson/dp/0316300136
+[lean]: https://www.amazon.com/The-Lean-Startup-Eric-Ries-audiobook/dp/B005MM7HY8
