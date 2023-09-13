@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "September 2023"
+date:   2023-09-12 00:00:00 -0500
+categories: jekyll update
+---
+
+### Books Reading:
+[Shadow of the Torturer][sot] & [The Claw of the Conciliator][claw] by Gene Wolfe - These books are amazing, been listening to them on audiobook that was from a cassette. Non-stop action, I love the way Gene Wolfe writes, requires 100% attention.<br>
+[Yumi and the Nightmare Painter by Brandon Sanderson][paint] - this was okay... idk after listening to Shadow of the torturer, it just seems uninspired. The characters hold tropes that I don't really like, shy stupid man, girl boss. Just lazy.<br>
+[Doing Agile Right][dar] - <br>
+
+
+### Games Playing:
+WoW Hardcode, Baldur's Gate 3, Void Strangers
+
+
+### Log:
+It's finally cooling down.
+
+### Solomon update:
+Solomon has been saying strings of words now... "Mommy and Daddy in bed", "Goats eating grass", just an explosion of words. He's been obsessed with Spidey and his amazing friends show. Has been saying a really scuffed version of "I Love You".
+
+[sot]: https://www.amazon.com/Complete-Book-New-Sun-Conciliator-ebook/dp/B075JL493G/ref=sr_1_1?crid=1QJNWO505K8Q1&keywords=the+shadow+of+the+torturer+by+gene+wolfe&qid=1694564210&s=digital-text&sprefix=gene+wolfe+the+shadow%2Cdigital-text%2C103&sr=1-1
+[claw]: https://www.amazon.com/Claw-Conciliator-Gene-Wolfe/dp/0671474251
+[paint]: https://www.amazon.com/Secret-Project-Cosmere-Novel-Projects-ebook/dp/B0BPN9JT6M/ref=sr_1_5?crid=1ASJ7CJ7RV5W4&keywords=brandon+sanderson&qid=1694564344&s=digital-text&sprefix=brando%2Cdigital-text%2C182&sr=1-5
+[dar]: https://www.amazon.com/dp/163369870X?psc=1&ref=ppx_yo2ov_dt_b_product_details
