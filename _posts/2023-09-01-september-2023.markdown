@@ -8,7 +8,7 @@ categories: jekyll update
 ### Books Reading:
 [Shadow of the Torturer][sot] & [The Claw of the Conciliator][claw] by Gene Wolfe - These books are amazing, been listening to them on audiobook that was from a cassette. Non-stop action, I love the way Gene Wolfe writes, requires 100% attention.<br>
 [Yumi and the Nightmare Painter by Brandon Sanderson][paint] - this was okay... idk after listening to Shadow of the torturer, it just seems uninspired. The characters hold tropes that I don't really like, shy stupid man, girl boss. Just lazy.<br>
-[Doing Agile Right][dar] - <br>
+[Doing Agile Right by Darrell Rigby][dar] - Read during the Agile Book Club, this was a great book for learning how to transition a team of non-agile team/orgs to agile. A very step-wise process, seems apt for the current climate. Unfortunate that we only have 5 people reading this book. <br>
 
 
 ### Games Playing:
