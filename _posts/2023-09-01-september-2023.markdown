@@ -10,6 +10,10 @@ categories: jekyll update
 [Yumi and the Nightmare Painter by Brandon Sanderson][paint] - this was okay... idk after listening to Shadow of the torturer, it just seems uninspired. The characters hold tropes that I don't really like, shy stupid man, girl boss. Just lazy.<br>
 [Doing Agile Right by Darrell Rigby][dar] - Read during the Agile Book Club, this was a great book for learning how to transition a team of non-agile team/orgs to agile. A very step-wise process, seems apt for the current climate. Unfortunate that we only have 5 people reading this book. <br>
 
+### Music Listening:
+Ovlov - [Buds][buds] - Took this from Nick, love this band, very versatile<br> ★★★★<br>
+Bibio - [BIB10][bibio] - Alwaysed loved Bibio, can't believe I hadn't listened to this album yet. It's INCREDIBLE. ★★★★★
+
 
 ### Games Playing:
 WoW Hardcode, Baldur's Gate 3, Void Strangers
@@ -25,3 +29,5 @@ Solomon has been saying strings of words now... "Mommy and Daddy in bed", "Goats
 [claw]: https://www.amazon.com/Claw-Conciliator-Gene-Wolfe/dp/0671474251
 [paint]: https://www.amazon.com/Secret-Project-Cosmere-Novel-Projects-ebook/dp/B0BPN9JT6M/ref=sr_1_5?crid=1ASJ7CJ7RV5W4&keywords=brandon+sanderson&qid=1694564344&s=digital-text&sprefix=brando%2Cdigital-text%2C182&sr=1-5
 [dar]: https://www.amazon.com/dp/163369870X?psc=1&ref=ppx_yo2ov_dt_b_product_details
+[buds]: https://www.youtube.com/watch?v=kstlaTn9UWw&list=PLvsYXqtYjMYd-882DScrCJpjDdOGnWQ1K
+[bibio]: https://www.youtube.com/watch?v=03sYraxGdqg&list=PLxa00V3HsL9q8AQF25FRixMC42KvDRJkm

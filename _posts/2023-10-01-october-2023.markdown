@@ -8,6 +8,10 @@ categories: jekyll update
 ### Books Reading:
 [The Sword of the Lictor][sol] & [The Citadel of the Autarch][coa] by Gene Wolfe - Okay, so the first two books were amazing, Sword of the Lictor is pretty awesome too. The last book, Citadel of the Autarch, wraps everything together in an incredibly mind bending way. 10/10<br>
 
+### Music Listening:
+Gentle Love - [Perscription for Sleep][pfs] - Great sleepy time video game music. ★★★<br>
+Slowdive - [everything is alive][eia] - Mellowtime shoegaze. Really love alife. ★★★
+
 
 ### Games Playing:
 WoW Wotlk, Baldur's Gate 3
@@ -19,3 +23,5 @@ Well, it cooled down and I got the flu for the first week of October, then had a
 
 [sol]: https://www.amazon.com/gp/product/B09C54XGL9?ref_=dbs_m_mng_rwt_calw_tkin_3&storeType=ebooks&sr=1-5
 [coa]: https://www.amazon.com/gp/product/B09LZB4W1D?ref_=dbs_m_mng_rwt_calw_tkin_4&storeType=ebooks&sr=1-5
+[pfs]: https://www.youtube.com/watch?v=QUmryiKlE9U
+[eia]: https://www.youtube.com/watch?v=Zpkymhh70U4&pp=ygUeU2xvd2RpdmUgLSBldmVyeXRoaW5nIGlzIGFsaXZl
