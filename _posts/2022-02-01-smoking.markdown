@@ -147,6 +147,22 @@ Weight: 8-10lbs
 - Pull out at 145°F
 - Let rest for 2 minutea
 
+## Turkey
+![alt text](../assets/images/smoking/turkey.jpg "Thanksgiving 2023")
+[Use this for reference][turkey]
+
+Time: 4 hours est.
+Weight: 15-20lbs, ideally you want a 15lb one
+
+- Season with salt and pepper
+- Inject with a mix of butter, chile, and chipotle powder
+- Put in @ 225°F for around 2 hours
+- Change temp to 325°F
+- Pull out at 165°F
+- Let rest for 30 minutes
+- Cut breast and cut across the grain
+- Drizzle a mix of butter, parsley, rosemary, sage, thyme, garlic & onion powder on top.
+
 
 
 [msbbq]: https://www.youtube.com/@MadScientistBBQ
@@ -160,3 +176,4 @@ Weight: 8-10lbs
 [brisket-pellet]: https://www.youtube.com/watch?v=EMeAGp_8sG8
 [ham]: https://youtu.be/AiUr5mYkkVE
 [porkloin]: https://www.youtube.com/watch?v=zSHJJiq5w4w
+[turkey]: https://www.youtube.com/watch?v=D28zmomwv9k
