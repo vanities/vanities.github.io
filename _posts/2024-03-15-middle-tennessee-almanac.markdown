@@ -100,13 +100,13 @@ Fall officially begins with the autumnal equinox, around September 22nd or 23rd.
 
 Winter officially begins with the winter solstice, around December 21st or 22nd. In Middle Tennessee, temperatures can start to drop significantly by late December or early January.
 
+---
 
 Notes:
-[Almanac for Spring Hill, TN][almanac]
+[Almanac for Spring Hill, TN][almanac]<br>
 [Stoney Creek Farm Tennessee][scft]
 
 [almanac]: https://www.almanac.com/gardening/planting-calendar/TN/Spring%20Hill,%20Maury%20County
-[stoney
 [scft]: https://stoneycreekfarmtennessee.com/
 [pumpkin]: https://stoneycreekfarmtennessee.com/your-basic-guide-to-growing-pumpkins/
 [tomato]: https://stoneycreekfarmtennessee.com/plant-tomatoes-best-result/
