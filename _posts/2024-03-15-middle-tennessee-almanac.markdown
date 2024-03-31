@@ -102,7 +102,7 @@ Winter officially begins with the winter solstice, around December 21st or 22nd.
 
 ---
 
-Notes:
+Notes:<br>
 [Almanac for Spring Hill, TN][almanac]<br>
 [Stoney Creek Farm Tennessee][scft]
 
