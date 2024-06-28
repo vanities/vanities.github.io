@@ -8,7 +8,7 @@ categories: jekyll update
 ### Games Playing:
 After the announcement of Armored Core VI, this month I went down a rabbit hole of older [From Software][fs] games. Followed /r/armoredcore and the Armored Core general on /m/. I love their studio, they are, in my opinion, the pinnacle of gameplay in video games. They control the pacing of difficulty incredibly well and do not plateau like most game studios.
 
-![ac](assets/images/ac.jpg)
+![ac](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/ac.jpg)
 
 [Armored Core 2][ac2]: Awesome game to start on, the controls were a trip at first, but the gameplay and difficulty really hooked me.
 
