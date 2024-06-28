@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "April 2023"
+date:   2024-04-27 00:00:00 -0500
+categories: jekyll update
+---
+
+### Books Reading:
+[Memories Of Ice: Malazan Book of the Fallen, Book 3][moi] by Steven Erikson - Continues to be a work of poetry. The character development is amazing. ★★★★★<br>
+[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones][ah] by James Clear - this was the second or third self-help timemanagement book we read. The first half had some good quotes, not so much the second half. ★★★<br>
+
+### Games Playing:
+WoW Season Of Discovery! Found a different guild, Warrior/Mage<br>
+
+
+### Log:
+I took a long time off from writing, I'm now trying to catch up on Jun 27th. Obviously things were pretty slumped this year with everything that happened.
+
+For our friends meet up, we went to Pinkerton park in Franklin, it was so nice to see my highschool friends again, along with all of our kids hanging out.
+![alt text](../assets/images/IMG_0744.jpg "friend family")
+
+The kale began growing on the 25th
+![alt text](../assets/images/IMG_0766.jpg "friend family")
+
+
+[moi]: https://www.amazon.com/Memories-of-Ice-Steven-Erikson-audiobook/dp/B00C2WLERM
+[ah]: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
