@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "April 2023"
+title:  "April 2024"
 date:   2024-04-27 00:00:00 -0500
 categories: jekyll update
 ---
@@ -20,7 +20,7 @@ For our friends meet up, we went to Pinkerton park in Franklin, it was so nice t
 ![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/IMG_0744.jpg "friend family")
 
 The kale began growing on the 25th
-![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/IMG_0766.jpg "friend family")
+![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/IMG_0766.jpg "green love")
 
 
 [moi]: https://www.amazon.com/Memories-of-Ice-Steven-Erikson-audiobook/dp/B00C2WLERM
