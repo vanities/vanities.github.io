@@ -12,8 +12,10 @@ In a world where the essentials of life - **water**, food, and shelter - are oft
 
 
 ## Instructions
-Every year, replace the first 3 pre stage filters for the RO and dump the water out for 5 minutes see: https://m.youtube.com/watch?v=n2zW4pVQPgU#dialog
+Every year, replace the first 3 pre stage filters for the RO and dump the water out for 5 minutes see:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2zW4pVQPgU?si=B5Y337FCeGLp55wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Watch https://m.youtube.com/watch?v=p7hNGFMH3sE&pp=ygUXUmVwbGFjZSBpc3ByaW5nIGZpbHRlcnM%3D for the rest.
+Watch this for the rest.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p7hNGFMH3sE?si=mXcZCmfrJNOR5UYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 When removing the fitting for the other stages, push down the oring thingie then pull the fitting off
