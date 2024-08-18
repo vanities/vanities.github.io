@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "August 2024"
+date:   2024-08-30 00:00:00 -0500
+categories: jekyll update
+---
+
+### Books Reading:
+[American Icon: Alan Mulally and the Fight to Save Ford Motor Company][ai] by Bryce G. Hoffman - I really wanted to read the full book, got about halfway and was laid off. Honestly, I see a lot of similarities between the complications during 2008 and now, especially with honesty in leadership. Great book though. ★★★★<br>
+
+### Log:
+
+Happy Birthday Me! (Thank you Omar for the picture)
+![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/hbd2024.png "34")
+
+
+Got laid off from Ford. Looking for a new job now.
+
+Been watching this dude, lol
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gcS1HIci4hQ?si=QlhbRzkFb-S8FyfW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+And here's some doomer content
+Joe Rogan Experience #2190 - Peter Thiel
+<iframe width="560" height="315" src="https://www.youtube.com/embed/klRb0_BAX9g?si=xKLhk3Dtmjg4swQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The Professor Banned From Speaking Out: "We Need To Start Preparing Before It's Too Late!” - Dr Bret
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_cFu-b5lTMU?si=uEfb-TjLIy3LIcV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Casey Means was a Stanford-educated surgeon. Her brother Calley was a lobbyist for pharma and the food industry. Both quit their jobs in horror when they realized how many people were being killed by the systems they participated in. This is an amazing story.<br><br>(0:54) Who Are… <a href="https://t.co/1oIVLvPlAv">pic.twitter.com/1oIVLvPlAv</a></p>&mdash; Tucker Carlson (@TuckerCarlson) <a href="https://twitter.com/TuckerCarlson/status/1824502384254693487?ref_src=twsrc%5Etfw">August 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">An attempted assassination, followed by a coup. It makes you wonder what’s next. Dave Smith has some ideas.<br><br>(1:03) Dave Smith’s 2024 Predictions<br>(8:34) Who Is the President Right Now?<br>(12:39) The Greatest Scandal in American History<br>(19:34) The Deep State Coming Out of the… <a href="https://t.co/Ux2T2F29fL">pic.twitter.com/Ux2T2F29fL</a></p>&mdash; Tucker Carlson (@TuckerCarlson) <a href="https://twitter.com/TuckerCarlson/status/1823404757505163322?ref_src=twsrc%5Etfw">August 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[ai]: https://www.amazon.com/American-Icon-Bryce-G-Hoffman-audiobook/dp/B0088L58X2/

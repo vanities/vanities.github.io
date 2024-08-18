@@ -113,6 +113,7 @@ Ingredients:
 
 ## Burgers
 
+![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/burgers.jpg "juicy")
 Ezpz!
 
 Time: 1 hour
