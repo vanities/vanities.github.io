@@ -10,7 +10,7 @@ categories: jekyll update
 Been listening to a lot of Joe Rogan since he's back on the youtube, along with Tucker Carlson, who has apparently surpassed Rogan in viewers.
 
 KT #672 - DONALD TRUMP (SHANE GILLIS) + JOE BIDEN (ADAM RAY)
-https://www.youtube.com/watch?v=ZgHR4ug866Q&pp=ygUJa2lsbCB0b255
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZgHR4ug866Q?si=-EOVYkWLaGJClb4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 This episode is the funniest thing on the internet- hands down.
 
 This month, I started picking some carrots. End of July I really should have picked the corn. By August the corn started to die.
