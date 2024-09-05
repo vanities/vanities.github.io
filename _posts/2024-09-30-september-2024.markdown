@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "September 2024"
+date:   2024-09-30 00:00:00 -0500
+categories: jekyll update
+---
+
+### Log:
+
+Was sick from August 27th - September 3rd, still feeling residual sickness on the 5th, making it tough to exercise.
