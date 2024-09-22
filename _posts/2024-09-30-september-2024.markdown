@@ -1,12 +1,30 @@
 ---
 layout: post
-title:  "September 2024"
-date:   2024-09-30 00:00:00 -0500
+title: "September 2024"
+date: 2024-09-30 00:00:00 -0500
 categories: jekyll update
 ---
 
-### Log:
+### Log
 
-Was sick from August 27th - September 3rd, still feeling residual sickness on the 5th, making it tough to exercise.
+### Music Listening
+
+spoiler: all electronic september
+
+floating points is goat
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E-ChunclWvQ?si=vMcbNGBXKJjPAeNB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Jon Hopkins is great for zoning
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u3E_hG5c5QI?si=GEQfPhUwCQ02HIjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Jaimie xx after like a decade!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCoD5UL0W00?si=ITrtb9mNOQ5Hov_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Month of the Spider.
+
+Was sick from August 27th - September 3rd, still feeling residual sickness on the 5th, making it tough to exercise. Finally better and working out almost 2 and half weeks later
 
 I’ve been telling Solomon stories at night about Randy’s adventures. I came up with a genius idea to do them in the story of Zelda Ocarina of Time dungeons lol. So last night Randy went to the Deku tree and fought the big spider and got the slingshot, tonight he went into Zora’s domain and into JabuJabu’s belly to fight the electric jellyfish, got the boomerang, and saved the Zora princess.
