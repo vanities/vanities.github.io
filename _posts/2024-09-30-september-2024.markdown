@@ -5,8 +5,6 @@ date: 2024-09-30 00:00:00 -0500
 categories: jekyll update
 ---
 
-### Log
-
 ### Music Listening
 
 spoiler: all electronic september
@@ -22,6 +20,15 @@ Jon Hopkins is great for zoning
 Jaimie xx after like a decade!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xCoD5UL0W00?si=ITrtb9mNOQ5Hov_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Games Playing
+
+[The Legend of Zelda: Dungeons of Infinity](https://justinbohemier.wixsite.com/portfolio/game-design)
+This game is a procedurally-generated rogue-like ‘Link to the Past’ dungeon crawler. It’s not a rom hack, it was created in Gamemaker Studio from scratch using the original assets. Many new features and assets were added to this game, but special care was put in to ensure it still looks, feels, and plays like the original game.
+
+Terraria, again, with friends. Setup T-Mod sever on my NAS
+
+### Log
 
 Month of the Spider.
 
