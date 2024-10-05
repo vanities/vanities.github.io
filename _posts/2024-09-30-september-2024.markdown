@@ -26,7 +26,7 @@ Jaimie xx after like a decade!
 [The Legend of Zelda: Dungeons of Infinity](https://justinbohemier.wixsite.com/portfolio/game-design)
 This game is a procedurally-generated rogue-like ‘Link to the Past’ dungeon crawler. It’s not a rom hack, it was created in Gamemaker Studio from scratch using the original assets. Many new features and assets were added to this game, but special care was put in to ensure it still looks, feels, and plays like the original game.
 
-Terraria, again, with friends. Setup T-Mod sever on my NAS
+Terraria, again, with friends. Setup T-Mod sever on my NAS with unraid
 
 ### Log
 
