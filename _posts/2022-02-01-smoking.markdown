@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Smoking"
-date:   2023-02-01 11:06:00 -0500
+title: "Smoking"
+date: 2023-02-01 11:06:00 -0500
 categories: jekyll update
 ---
 
 # Summary
+
 Went down a rabbit whole of smoking meat, started off smoking salmon, then moved to pig and cow. Got a pellet smoker from my grandparents for free. Found out offset smokers are the best for flavor, but require more attention tending to the fire, I might get one later.
 
 None of these recipes are my own, mostly stolen from [Mad Scientist BBQ][msbbq].
 
 With the large meats, they can be frozen for 6-12 months. For every 5lbs, they will need a full day in the freezer to dethaw. After defthawing, red meats will stay for up to 5 days in the fridge.
-
 
 ## Salmon
 
@@ -23,7 +23,6 @@ Watched this [video][salmon], got some ideas from the chef. He cures the fish fo
 - Wash the salmon and pat dry and let dry for 12 hours in fridge
 - Smoke at 180°F for 2 hours
 - Finish at internal temp of 130°F to 140°F
-
 
 ## Pork Spare Ribs
 
@@ -39,6 +38,7 @@ This [video][porkribs] is what got me into this guy. Made these for Christmas di
 - Finish at internal temp of 207°F
 
 ## Baby Back Ribs
+
 ![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/babybackribs.jpg "January 2024")
 
 This [video][porkribs] is what got me into this guy. Made these for Christmas dinner, which was a hit.
@@ -82,12 +82,12 @@ Not really much smoke can be applied to chicken, but if you can make it juicy, c
 - 325°F for 15 minutes
 - Finish at internal temp of 165°F
 
-
 ## Brisket
 
 The king of BBQ. 15lb briskets are normal, good ones being Prime. Can be bought at Sam's Club or Costco. The brisket side with the fat cap will be considered the top. Brisket contains two peck muscles from a cow, pectoralis major and pectouralis minor, which requires different cuts based on which side you're on. You must trim the thick fat on the fat cap and flabs hanging off (you can resuse them) because the fat won't render and the flabs you don't want them to get burnt during the long cook. Glean as much from these videos [1][brisket1], [2][brisket2], [3][brisket3]. And [4][brisket-pellet] if you're using a pellet grill.
 
 Ingredients:
+
 - Brisket from Sam's Club
 - Wagyu Beef Lard from Amazon
 
@@ -138,6 +138,7 @@ Weight: 7-10lbs
 - Rest for 30 minutes
 
 ## Pork Loin
+
 [Use this for reference][porkloin]
 
 Time: 5 hours est.
@@ -150,6 +151,7 @@ Weight: 8-10lbs
 - Let rest for 2 minutea
 
 ## Turkey
+
 ![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/turkey.jpg "Thanksgiving 2023")
 [Use this for reference][turkey]
 
@@ -159,13 +161,11 @@ Weight: 15-20lbs, ideally you want a 15lb one
 - Season with salt and pepper
 - Inject with a mix of butter, chile, and chipotle powder
 - Put in @ 225°F for around 2 hours
-- Change temp to 325°F
-- Pull out at 165°F
+- Smoke until 150°F
+- Change temp to 325°F for 3 minutes to crisp skin
 - Let rest for 30 minutes
 - Cut breast and cut across the grain
 - Drizzle a mix of butter, parsley, rosemary, sage, thyme, garlic & onion powder on top.
-
-
 
 [msbbq]: https://www.youtube.com/@MadScientistBBQ
 [salmon]: https://www.youtube.com/watch?v=mCWTzkhFg1M
