@@ -5,13 +5,9 @@ date: 2024-12-12 12:12:12 -0500
 categories: jekyll update
 ---
 
-```
-
 # Aliens Exist
 
 From the late 2000s to the mid-2010s, I worked as a molecular biologist for a national security contractor in a program to study Exo-Biospheric-Organisms (EBO). I will share with you a lot of information on this subject. Feel free to ask questions or ask for clarification.
-
-**Discussion :table:**
 
 It seems like all my comments are being deleted. I will post answers at the end of the message.
 
@@ -19,13 +15,13 @@ From the late 2000s to the mid-2010s, I worked as a molecular biologist for a na
 
 ...
 
-*(Content continues as in your original post)*
+_(Content continues as in your original post)_
 
 ---
 
 ## Story #1: Experiences as a Molecular Biologist
 
-*(Include the first story content here, properly formatted with paragraphs, links, and any other necessary Markdown syntax.)*
+_(Include the first story content here, properly formatted with paragraphs, links, and any other necessary Markdown syntax.)_
 
 ---
 
@@ -57,7 +53,7 @@ I lived out day after day, week after week, month after month in this dream that
 
 ...
 
-*(Continue formatting the rest of Story #2 with appropriate headers and sections)*
+_(Continue formatting the rest of Story #2 with appropriate headers and sections)_
 
 ### Part 2 of the Last Story
 
@@ -94,4 +90,3 @@ I'd say I was around 9 or 10 when it happened. I was spending summer vacation wi
 - ![Image](https://64.media.tumblr.com/4101e0d532ee816c7919bf79dccef8e4/tumblr_prd4qmDaHe1xqkygqo5_r1_1280.png)
 
 ---
-```
