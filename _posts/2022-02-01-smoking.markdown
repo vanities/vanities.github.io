@@ -39,7 +39,7 @@ This [video][porkribs] is what got me into this guy. Made these for Christmas di
 
 ## Baby Back Ribs
 
-![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/babybackribs.jpg "January 2024")
+![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/babybackribs.webp "January 2024")
 
 This [video][porkribs] is what got me into this guy. Made these for Christmas dinner, which was a hit.
 
@@ -113,7 +113,7 @@ Ingredients:
 
 ## Burgers
 
-![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/burgers.jpg "juicy")
+![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/burgers.webp "juicy")
 Ezpz!
 
 Time: 1 hour
@@ -152,7 +152,7 @@ Weight: 8-10lbs
 
 ## Turkey
 
-![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/turkey.jpg "Thanksgiving 2023")
+![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/turkey.webp "Thanksgiving 2023")
 [Use this for reference][turkey]
 
 Time: 4 hours est.
