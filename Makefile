@@ -1,7 +1,7 @@
 .PHONY: install up
 
 install:
-	docker-compose run jekyll bundle install
+	docker-compose run jekyll bundle install  --remove-orphans
 
 up:
 	docker-compose up jekyll

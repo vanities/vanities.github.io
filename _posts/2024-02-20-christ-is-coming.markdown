@@ -18,7 +18,7 @@ According to some researchers like [Ben Davidson](https://twitter.com/SunWeather
 
 ### The Ed Harris Image and Jimmy Carter UFO Rumors
 
-![alt text](https://media.githubusercontent.com/media/vanities/vanities.github.io/master/assets/images/smoking/edharris.webp "edharris")
+![alt text](assets/images/smoking/edharris.webp "edharris")
 
 There's an image circulating quoting Ed Harris, a NASA Ames Research Associate, talking about an incident involving President Jimmy Carter. The rumor is that Carter, a deeply religious man who had also reported seeing a UFO, was allegedly brought to tears after being briefed on certain classified UFO material. Supposedly, it touched on how major religions (including Christianity) were programs created by extraterrestrials to control society.
 
