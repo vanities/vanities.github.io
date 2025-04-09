@@ -28,9 +28,14 @@ How many `.env` files must be duplicated before we learn? AI doesn’t always un
 ```js
 // 😬 the same API key despite existing process.env.AUTH_TOKEN
 const apiKey = process.env.API_TOKEN;
-
 // 👇 When this was already in your config
 const apiKey = process.env.AUTH_TOKEN;
+
+// similarly, what the fuck are we doing?
+URL = "https://some.url";
+API_URL = "https://some.url/api";
+GRAPHQL_URL = "https://some.url/api/gql";
+VITE_URL = "https://some.url";
 ```
 
 ### 2. Hardcoding environment variables into the code
