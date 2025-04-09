@@ -1,4 +1,3 @@
-````markdown
 ---
 layout: post
 title: "The Vibe Coder"
@@ -33,7 +32,6 @@ const apiKey = process.env.API_TOKEN;
 // 👇 When this was already in your config
 const apiKey = process.env.AUTH_TOKEN;
 ```
-````
 
 ### 2. Hardcoding environment variables into the code
 
