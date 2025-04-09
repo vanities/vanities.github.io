@@ -213,7 +213,7 @@ async function getData() {
 
 These little AI artifacts build up fast. Suddenly your code is full of mismatched intentions and leftovers from a time when the bot had something different in mind.
 
-[The common reason a programmer use comment is to explain a bad code.](https://medium.com/codex/clean-code-comments-833e11a706dc)
+[The common reason a programmer uses comment is to explain a bad code.](https://medium.com/codex/clean-code-comments-833e11a706dc)
 
 ### 3. The “import everything just in case” strategy
 
