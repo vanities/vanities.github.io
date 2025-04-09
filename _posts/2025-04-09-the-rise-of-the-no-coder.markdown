@@ -190,7 +190,16 @@ export function doSomethingCool() {
 
 Except the file is now named `useCoolStuff.ts`. 😂
 
-### 2. Unnecessary or outdated comments
+### 2. Hyper-explaining obvious code
+
+```ts
+// Create a new Date object from the input timestamp
+const date = new Date(timestamp);
+```
+
+👏 We 👏 know 👏 what 👏 that 👏 does. These comments feel like they were written for a junior dev in 2013 — or, more accurately, a language model trying to be helpful.
+
+### 3. Unnecessary or outdated comments
 
 ```ts
 // TODO: Add error handling
@@ -205,6 +214,37 @@ async function getData() {
 These little AI artifacts build up fast. Suddenly your code is full of mismatched intentions and leftovers from a time when the bot had something different in mind.
 
 [The common reason a programmer use comment is to explain a bad code.](https://medium.com/codex/clean-code-comments-833e11a706dc)
+
+### 3. The “import everything just in case” strategy
+
+```ts
+import React, {
+  useEffect,
+  useState,
+  useRef,
+  useMemo,
+  useCallback,
+} from "react";
+```
+
+Used: `useState`. Everything else? 🤷 Copy-pasted from some AI snippet that assumed you'd use all of it. Classic.
+And then you get to see a bunch of `1. 'useState' is defined but never used. [@typescript-eslint/no-unused-vars]` in your linter.
+
+### 4. `async function handler(req, res)` in a Remix loader
+
+```ts
+export async function loader({ request }: LoaderFunctionArgs) {
+  // ...
+}
+```
+
+But then inside it:
+
+```ts
+const { method, headers } = req; // ← ??? remix doesn’t expose `req` like that
+```
+
+Clearly pasted from a Next.js or Express example and didn’t adapt. The vibes? Mixed.
 
 ---
 
