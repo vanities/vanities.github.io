@@ -15,7 +15,7 @@ And that vibe? It’s usually one of ✨just make it work✨, often fueled by AI
 
 But as I’ve transitioned from classic pair programming to AI-assisted development, I’ve noticed some troubling patterns that pull us away from the collaborative art of software building and push us into a new kind of chaos.
 
-I'm not [Insane](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/) you're insane.
+I'm not [insane](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/) you're insane.
 
 ---
 
@@ -52,7 +52,7 @@ import os
 S3_BUCKET = os.getenv("S3_BUCKET")
 ```
 
-This isn’t just messy—it’s dangerous.
+This isn’t just messy—it’s dangerous, security-wise you'll get screwed immediately.
 
 ### 3. Rewriting instead of reusing components, functions, or API calls
 
@@ -90,7 +90,6 @@ Your repo already uses a library. It’s working fine. It’s consistent. But AI
 ```js
 // 😬 Who the hell still uses Axios?
 import axios from "axios";
-
 const data = await axios.get("/api/stuff");
 ```
 
@@ -121,7 +120,58 @@ git commit -m "Add new endpoint"
 git push
 ```
 
-And that’s how bugs make it to prod.
+### 6. Using outdated patterns or deprecated APIs
+
+AI doesn’t read changelogs. It doesn’t follow release notes. It’s trained on code from six months ago (if you're lucky), so it happily suggests stuff that was deprecated last Tuesday.
+
+```ts
+import { LoaderArgs, json } from "@remix-run/node"; // LoaderArgs doesn’t even exist anymore
+return json({ neatStuff }); // json is deprecated
+```
+
+No foresight. No awareness of your current package versions. Just vibes.
+
+You’ll be in a groove until you get this random build error, only to find out the AI used the old syntax from Remix v1.6 when you’re on v2.16.5.
+
+### 7. Putting all the code in the same file, including types
+
+AI doesn’t care about separation of concerns, folder structure, or readability. It just wants to ship — so it throws _everything_ into one big file like it's never heard of `lib/`, `types/`, or `utils/`.
+
+```ts
+// pages/user.tsx
+
+type User = {
+  id: string;
+  name: string;
+  email: string;
+};
+
+const users: User[] = [
+  // ...
+];
+
+function getUserById(userId: string): User | undefined {
+  // ...
+}
+
+// 300 lines later...
+
+export default function UserPage() {
+  // ...
+}
+
+// end line 800 lines
+```
+
+No refactoring. No file boundaries. No sense of organization. It’s like AI's never seen a `services/` or `types/` folder in its life.
+
+You look at the file and think:
+
+> “This feels like a script I wrote at 2am in a hackathon — not something I want in my main branch.”
+
+And yeah, you _could_ split it up. Later. When you’re not shipping. When you finally admit to yourself that `types.ts`, `api.ts`, and `StorePage.tsx` should’ve been separate all along.
+
+But for now? Vibe Coder AI dumped it all in one place and peaced out.
 
 ---
 
@@ -160,7 +210,7 @@ These little AI artifacts build up fast. Suddenly your code is full of mismatche
 
 ## Final Thoughts
 
-I’m not against AI-assisted development. In fact, I love it. But if we’re not careful, vibe coding turns into code entropy. And no one wants to debug a codebase written by ten different copilots on autopilot.
+I’m not against AI-assisted development. In fact, I love it. But if we’re not careful, vibe coding turns into code entropy. No one wants to debug a codebase written by ten different copilots on autopilot, and they certainly don't want to clean it up later. Nobody wants to own a shitbase.
 
 Eventually, your whole codebase will be in context, but before that, we need to be careful about the AI code we’re accepting. It’s like a new hire who’s great at their job but doesn’t know the company culture yet. They need guidance.
 
