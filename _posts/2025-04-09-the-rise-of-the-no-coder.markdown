@@ -5,13 +5,13 @@ date: 2025-04-09 00:14:00 -0500
 categories: jekyll update
 ---
 
-With the rise of AI coding, begat the [Vibe Coder](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering), with vibe coding leading the charge into a new era of software development. Vibe coding is not _Clean Code_. It’s not meticulously crafted TDD. It’s not your senior engineer nitpicking your tabs vs spaces on your PR.
+With the rise of AI coding, begat the [Vibe Coder](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering), with vibe coding leading the charge into a new era of software development. Vibe coding is not [_Clean Code_](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882). It’s not meticulously crafted TDD. It’s not your senior engineer nitpicking your tabs vs spaces on your PR.
 
 It’s a vibe.
 
 And that vibe? It’s usually one of ✨just make it work✨, often fueled by AI pair programmers that never sleep and never argue.
 
-"Make it work" is missing the "make it good" part. It’s the difference between a quick hack and a well-structured solution. It’s the difference between a codebase that’s easy to maintain and one that’s a tangled mess.
+"Make it work" is missing the "make it good" part. It’s the difference between a quick hack and a well-structured solution. It’s the difference between a codebase that’s easy to maintain and one that’s a tangled mess. Software Engineering is the act of "making it good", because there will always be another person that reads your code (including you a month later when you forget.)
 
 But as I’ve transitioned from classic pair programming to AI-assisted development, I’ve noticed some troubling patterns that pull us away from the collaborative art of software building and push us into a new kind of chaos.
 
@@ -149,11 +149,15 @@ async function getData() {
 
 These little AI artifacts build up fast. Suddenly your code is full of mismatched intentions and leftovers from a time when the bot had something different in mind.
 
+[The common reason a programmer use comment is to explain a bad code.](https://medium.com/codex/clean-code-comments-833e11a706dc)
+
 ---
 
 ## Final Thoughts
 
 I’m not against AI-assisted development. In fact, I love it. But if we’re not careful, vibe coding turns into code entropy. And no one wants to debug a codebase written by ten different copilots on autopilot.
+
+Eventually, your whole codebase will be in context, but before that, we need to be careful about the AI code we’re accepting. It’s like a new hire who’s great at their job but doesn’t know the company culture yet. They need guidance.
 
 Let’s keep the vibe, but bring back the craft.
 
