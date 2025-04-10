@@ -230,22 +230,6 @@ import React, {
 Used: `useState`. Everything else? 🤷 Copy-pasted from some AI snippet that assumed you'd use all of it. Classic.
 And then you get to see a bunch of `1. 'useState' is defined but never used. [@typescript-eslint/no-unused-vars]` in your linter.
 
-### 4. `async function handler(req, res)` in a Remix loader
-
-```ts
-export async function loader({ request }: LoaderFunctionArgs) {
-  // ...
-}
-```
-
-But then inside it:
-
-```ts
-const { method, headers } = req; // ← ??? remix doesn’t expose `req` like that
-```
-
-Clearly pasted from a Next.js or Express example and didn’t adapt. The vibes? Mixed.
-
 ---
 
 ## Final Thoughts
